@@ -6,6 +6,7 @@ git push
 
 # удалить всё кроме папки с названием ".git"
 Remove-Item -Path .published/illidan/* -Recurse -Exclude .git
+Remove-Item -Path illidan_Client/bin/Release/net6.0/Published/* -Recurse -Exclude .git
 dotnet publish illidan_Client/illidan_Client.csproj -c Release -o illidan_Client/bin/Release/net6.0/Published
 move illidan_Client/bin/Release/net6.0/Published/wwwroot/* .published/illidan
 cd .published/illidan
