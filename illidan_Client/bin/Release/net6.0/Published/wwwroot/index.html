@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>illidan</title>
+    <base href="/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <link href="css/fonts.css" rel="stylesheet" />
+    <link href="css/app.css" rel="stylesheet" />
+    <link href="illidan.styles.css" rel="stylesheet" />
+
+    <link href="manifest.json" rel="manifest" />
+
+    <link href="images/icon-750.png" sizes="750x750" rel="apple-touch-icon" />
+    <link href="images/icon-512.png" sizes="512x512" rel="apple-touch-icon" />
+    <link href="images/icon-192.png" sizes="192x192" rel="apple-touch-icon" />
+
+    <link href="images/favicon.ico" rel="icon" />
+</head>
+
+<body>
+    <div id="app">
+        <div class="container">
+            <div class="box">
+                <div class="loader"><span></span></div>
+                <div class="loader"><span></span></div>
+                <div class="loader"><i></i></div>
+                <div class="loader"><i></i></div>
+            </div>
+        </div>
+    </div>
+
+    <!--<div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>-->
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script>navigator.serviceWorker.register('service-worker.js');</script>
+
+</body>
+
+</html>
