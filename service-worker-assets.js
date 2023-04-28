@@ -13,7 +13,7 @@
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-0sQF7YR0KbyyAHTe8m4EAdrZUypemLnxJWeALRYwXJM=",
+      "hash": "sha256-g1MOpaVOHktjEXIJrz++VN9RzzaDA1CZXjYOkCT8MTo=",
       "url": "404.html"
     },
     {
@@ -485,7 +485,7 @@
       "url": "images\/Warglaive.svg"
     },
     {
-      "hash": "sha256-sTHZzLb4MTO5qotMpAh4WKDgkqWLWQuv1lMDRP2rQss=",
+      "hash": "sha256-CeDhvBLEHwdSdn1O+xSb7UsH7zAR7U3qIUIfhi0I8QM=",
       "url": "index.html"
     },
     {
@@ -761,5 +761,5 @@
       "url": "_content\/Blazored.Toast\/blazored-toast.min.css"
     }
   ],
-  "version": "q77P1RP0"
+  "version": "WKco41SL"
 };
