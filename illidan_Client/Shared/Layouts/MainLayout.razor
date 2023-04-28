@@ -1,0 +1,25 @@
+﻿@inherits LayoutComponentBase
+@inject ILocalStorageService LS
+
+<div ng-version="11.1.2" class="root green @IsDark">
+    <div class="navigation ">
+        <LeftNavRail OnClickCallback=@Switch />
+        <NavigationDrawer OnClickCallback=@Switch>
+            @Body
+        </NavigationDrawer>
+    </div>
+</div>
+
+@code {
+    private bool isDark;
+    private void Switch() => isDark = !isDark;
+
+    public string IsDark => isDark ? "dark-mode" : String.Empty;
+
+    [Parameter] public EventCallback OnClickCallback { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        isDark = await LS.GetItemAsync<bool>("dark mode");
+    }
+}

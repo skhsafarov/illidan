@@ -1,0 +1,88 @@
+﻿@page "/"
+@inject HttpClient httpClient
+
+<ArticlePage>
+    <nav role="presentation" aria-label="article tabs" class="" style="">
+        <!--sticky-->
+        <div class="navigation-container">
+            <div role="tablist" class="tabbed-navigation">
+
+                <a style="width: 50%" class="tab @IsActive(toMoscow)" tabindex=@Tabindex(toMoscow) @onclick=@Switch
+                    aria-label="To Moscow" aria-selected="@toMoscow">
+                    <span class="google-symbols">School</span>
+                    <span class="tab-label">To Moscow</span>
+                </a>
+                <a style="width: 50%" class="tab @IsActive(!toMoscow)" tabindex=@Tabindex(!toMoscow) @onclick=@Switch
+                    aria-label="From Moscow" aria-selected="!@toMoscow">
+                    <span class="google-symbols">Home</span>
+                    <span class="tab-label">From Moscow</span>
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="animation-container">
+        <CardSet Class="stack col-1" Style="margin: 8px auto 0;">
+            @if (ScheduleArray == null)
+            {
+            <p>Loading...</p>
+            }
+            else
+            {
+            @foreach (var item in ScheduleArray)
+            {
+            <Card Size="small" Href="#">
+                <Title>
+                    @item.Time.ToLocalTime().ToShortTimeString()
+                </Title>
+                <Description>
+                    @item.Route
+                </Description>
+            </Card>
+            }
+            }
+        </CardSet>
+    </div>
+</ArticlePage>
+
+
+@code {
+private Schedule[]? ToMoscow;
+private Schedule[]? FromoMoscow;
+private Schedule[]? ScheduleArray;
+
+private bool toMoscow = true;
+private int Tabindex(bool e) => e ? 0 : -1;
+private string? IsActive(bool e) => e ? "active" : null;
+private void Switch()
+{
+toMoscow = !toMoscow;
+if (toMoscow)
+{
+ScheduleArray = ToMoscow;
+}
+else
+{
+ScheduleArray = FromoMoscow;
+}
+}
+
+
+protected override async Task OnInitializedAsync()
+{
+if (ScheduleArray == null)
+{
+ToMoscow = await httpClient.GetFromJsonAsync<Schedule[]>
+    ("AKfycby00FAmNSb7sqfcWDCCJFvi2Cg2puBQA38ACjuH6kcfcUliO-ur8YHUlubv618tQ3Q/exec?direction=В Москву");
+    FromoMoscow = await httpClient.GetFromJsonAsync<Schedule[]>
+        ("AKfycby00FAmNSb7sqfcWDCCJFvi2Cg2puBQA38ACjuH6kcfcUliO-ur8YHUlubv618tQ3Q/exec?direction=Из Москвы");
+        ScheduleArray = ToMoscow;
+        }
+        }
+
+        public class Schedule
+        {
+        public string? Route { get; set; }
+        public DateTime Time { get; set; }
+        }
+        }

@@ -1,0 +1,22 @@
+﻿<div class="article-page loaded">
+    <div class="animation-container">
+
+        <main id="main_content" role="main" aria-label="Main Content" tabindex="-1">
+            @ChildContent
+        </main>
+
+        <div role="button" aria-label="go back to top" tabindex="0"
+             class="back-to-top ">
+            <div class="state-overlay ">
+            </div>
+            <span class="google-symbols ">vertical_align_top</span>
+        </div>
+
+        <Footer />
+
+    </div>
+</div>
+
+@code {
+    [Parameter] public RenderFragment? ChildContent { get; set; }
+}

@@ -1,0 +1,44 @@
+﻿<div class="top-app-bar-fixed">
+    <header class="mdc-top-app-bar mdc-top-app-bar--fixed" style="transition: background 250ms cubic-bezier(.4,0,.2,1);
+        -webkit-transition: background 250ms cubic-bezier(.4,0,.2,1);
+        -moz-transition: background 250ms cubic-bezier(.4,0,.2,1);
+        -o-transition: background 250ms cubic-bezier(.4,0,.2,1);">
+        <div class="mdc-top-app-bar__row" style="height: 64px;">
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start" id="navigation">
+                @*@NavigationIcon*@
+                <IconButton OnClickCallback=@OnClickCallback AriaLabel="open menu" />
+                <span class="mdc-top-app-bar__title">
+                    @*@Title*@
+                    <a analyticslabel="/" routerlink="/"
+                       aria-label="go to illidan homepage" class="home-page-link" href="">
+                        <span class="google-symbols">
+                            <svg width="22" height="22" viewBox="0 0 750 840">
+                                <use xlink:href="images/Warglaive.svg#warglaive-logo"/>
+                            </svg>
+                        </span>
+                        <span class="ng-star-inserted">
+                            illidan
+                        </span>
+                    </a>
+                </span>
+            </section>
+
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-end" id="actions" role="toolbar">
+                @ActionItems
+            </section>
+        </div>
+    </header>
+
+    <div class="mdc-top-app-bar--fixed-adjust" style="padding-top: 64px;">
+        @ChildContent
+    </div>
+</div>
+
+
+@code {
+    [Parameter] public RenderFragment? ActionItems { get; set; }
+    [Parameter] public RenderFragment? ChildContent { get; set; }
+
+    [Parameter]
+    public EventCallback OnClickCallback { get; set; }
+}
