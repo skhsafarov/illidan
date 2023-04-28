@@ -1,1 +1,0 @@
-D:\Projects\.NetProjects\illidan\bin\Release\net6.0\Published\web.config
