@@ -21,12 +21,3 @@ git checkout gh-pages
 git add *
 git commit -m "published gh-pages branch"
 git push
-
-
-
-#move bin/Release/net6.0/illidan/.git bin/Release/net6.0
-#remove-item -path bin/Release/net6.0/illidan/* -recurse
-#move bin/Release/net6.0/.git bin/Release/net6.0/illidan
-#remove-item -path bin/Release/net6.0/Published/* -recurse
-#cd bin/Release/net6.0/illidan
-#move ../Published/wwwroot/*
