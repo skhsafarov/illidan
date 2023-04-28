@@ -9,118 +9,44 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 2112466881,
+        "HashCode": -2029855532,
         "Kind": "Components.Component",
-        "Name": "illidan_Client.Pages.MoneyExchange",
+        "Name": "illidan_Client.App",
         "AssemblyName": "illidan_Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MoneyExchange"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Pages.MoneyExchange",
-          "Common.TypeNamespace": "illidan_Client.Pages",
-          "Common.TypeNameIdentifier": "MoneyExchange"
+          "Common.TypeName": "illidan_Client.App",
+          "Common.TypeNamespace": "illidan_Client",
+          "Common.TypeNameIdentifier": "App"
         }
       },
       {
-        "HashCode": 1168739604,
+        "HashCode": 999082976,
         "Kind": "Components.Component",
-        "Name": "illidan_Client.Pages.MoneyExchange",
+        "Name": "illidan_Client.App",
         "AssemblyName": "illidan_Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "illidan_Client.Pages.MoneyExchange"
+            "TagName": "illidan_Client.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Pages.MoneyExchange",
-          "Common.TypeNamespace": "illidan_Client.Pages",
-          "Common.TypeNameIdentifier": "MoneyExchange",
+          "Common.TypeName": "illidan_Client.App",
+          "Common.TypeNamespace": "illidan_Client",
+          "Common.TypeNameIdentifier": "App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -357282525,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Pages.BusSchedule",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BusSchedule"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Pages.BusSchedule",
-          "Common.TypeNamespace": "illidan_Client.Pages",
-          "Common.TypeNameIdentifier": "BusSchedule"
-        }
-      },
-      {
-        "HashCode": -1073612902,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Pages.BusSchedule",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "illidan_Client.Pages.BusSchedule"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Pages.BusSchedule",
-          "Common.TypeNamespace": "illidan_Client.Pages",
-          "Common.TypeNameIdentifier": "BusSchedule",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1771549635,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Pages.Signin",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Signin"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Pages.Signin",
-          "Common.TypeNamespace": "illidan_Client.Pages",
-          "Common.TypeNameIdentifier": "Signin"
-        }
-      },
-      {
-        "HashCode": 545849983,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Pages.Signin",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "illidan_Client.Pages.Signin"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Pages.Signin",
-          "Common.TypeNamespace": "illidan_Client.Pages",
-          "Common.TypeNameIdentifier": "Signin",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1013105540,
+        "HashCode": -1451115867,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Pages.Booking",
         "AssemblyName": "illidan_Client",
@@ -138,7 +64,7 @@
         }
       },
       {
-        "HashCode": 1317335208,
+        "HashCode": -1063745924,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Pages.Booking",
         "AssemblyName": "illidan_Client",
@@ -157,7 +83,44 @@
         }
       },
       {
-        "HashCode": 17772626,
+        "HashCode": 251935363,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Pages.BusSchedule",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BusSchedule"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Pages.BusSchedule",
+          "Common.TypeNamespace": "illidan_Client.Pages",
+          "Common.TypeNameIdentifier": "BusSchedule"
+        }
+      },
+      {
+        "HashCode": -858755828,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Pages.BusSchedule",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "illidan_Client.Pages.BusSchedule"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Pages.BusSchedule",
+          "Common.TypeNamespace": "illidan_Client.Pages",
+          "Common.TypeNameIdentifier": "BusSchedule",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -220295938,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Pages.GetStarted",
         "AssemblyName": "illidan_Client",
@@ -175,7 +138,7 @@
         }
       },
       {
-        "HashCode": 555994565,
+        "HashCode": 491712594,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Pages.GetStarted",
         "AssemblyName": "illidan_Client",
@@ -194,7 +157,44 @@
         }
       },
       {
-        "HashCode": -91982256,
+        "HashCode": -1495375306,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Pages.MoneyExchange",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MoneyExchange"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Pages.MoneyExchange",
+          "Common.TypeNamespace": "illidan_Client.Pages",
+          "Common.TypeNameIdentifier": "MoneyExchange"
+        }
+      },
+      {
+        "HashCode": 2087917176,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Pages.MoneyExchange",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "illidan_Client.Pages.MoneyExchange"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Pages.MoneyExchange",
+          "Common.TypeNamespace": "illidan_Client.Pages",
+          "Common.TypeNameIdentifier": "MoneyExchange",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 586408475,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Pages.Music",
         "AssemblyName": "illidan_Client",
@@ -223,7 +223,7 @@
         }
       },
       {
-        "HashCode": -1533897918,
+        "HashCode": -1664174808,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Pages.Music",
         "AssemblyName": "illidan_Client",
@@ -253,1002 +253,44 @@
         }
       },
       {
-        "HashCode": -302256390,
+        "HashCode": 1023322433,
         "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.LandingPage",
+        "Name": "illidan_Client.Pages.Signin",
         "AssemblyName": "illidan_Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "LandingPage"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
+            "TagName": "Signin"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.LandingPage",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "LandingPage"
+          "Common.TypeName": "illidan_Client.Pages.Signin",
+          "Common.TypeNamespace": "illidan_Client.Pages",
+          "Common.TypeNameIdentifier": "Signin"
         }
       },
       {
-        "HashCode": 776133774,
+        "HashCode": -1347910039,
         "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.LandingPage",
+        "Name": "illidan_Client.Pages.Signin",
         "AssemblyName": "illidan_Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "illidan_Client.Shared.Layouts.LandingPage"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
+            "TagName": "illidan_Client.Pages.Signin"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.LandingPage",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "LandingPage",
+          "Common.TypeName": "illidan_Client.Pages.Signin",
+          "Common.TypeNamespace": "illidan_Client.Pages",
+          "Common.TypeNameIdentifier": "Signin",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -1887785764,
-        "Kind": "Components.ChildContent",
-        "Name": "illidan_Client.Shared.Layouts.LandingPage.ChildContent",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "LandingPage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.LandingPage.ChildContent",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "LandingPage",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": 1435418218,
-        "Kind": "Components.ChildContent",
-        "Name": "illidan_Client.Shared.Layouts.LandingPage.ChildContent",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "illidan_Client.Shared.Layouts.LandingPage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.LandingPage.ChildContent",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "LandingPage",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1178138173,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.Footer",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Footer"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.Footer",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "Footer"
-        }
-      },
-      {
-        "HashCode": 1167769886,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.Footer",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "illidan_Client.Shared.Layouts.Footer"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.Footer",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "Footer",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 959743737,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.TopAppBarFixed",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TopAppBarFixed"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ActionItems",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ActionItems",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
-              "Components.EventCallback": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.TopAppBarFixed",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "TopAppBarFixed"
-        }
-      },
-      {
-        "HashCode": -791284648,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.TopAppBarFixed",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "illidan_Client.Shared.Layouts.TopAppBarFixed"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ActionItems",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ActionItems",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
-              "Components.EventCallback": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.TopAppBarFixed",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "TopAppBarFixed",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1325943866,
-        "Kind": "Components.ChildContent",
-        "Name": "illidan_Client.Shared.Layouts.TopAppBarFixed.ActionItems",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ActionItems",
-            "ParentTag": "TopAppBarFixed"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.TopAppBarFixed.ActionItems",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "TopAppBarFixed",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": -1733344160,
-        "Kind": "Components.ChildContent",
-        "Name": "illidan_Client.Shared.Layouts.TopAppBarFixed.ActionItems",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ActionItems",
-            "ParentTag": "illidan_Client.Shared.Layouts.TopAppBarFixed"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.TopAppBarFixed.ActionItems",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "TopAppBarFixed",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -793206221,
-        "Kind": "Components.ChildContent",
-        "Name": "illidan_Client.Shared.Layouts.TopAppBarFixed.ChildContent",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "TopAppBarFixed"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.TopAppBarFixed.ChildContent",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "TopAppBarFixed",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": 1275171148,
-        "Kind": "Components.ChildContent",
-        "Name": "illidan_Client.Shared.Layouts.TopAppBarFixed.ChildContent",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "illidan_Client.Shared.Layouts.TopAppBarFixed"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.TopAppBarFixed.ChildContent",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "TopAppBarFixed",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2017830109,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.NavigationDrawer",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavigationDrawer"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
-              "Components.EventCallback": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.NavigationDrawer",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "NavigationDrawer"
-        }
-      },
-      {
-        "HashCode": -431661010,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.NavigationDrawer",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "illidan_Client.Shared.Layouts.NavigationDrawer"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
-              "Components.EventCallback": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.NavigationDrawer",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "NavigationDrawer",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1884774178,
-        "Kind": "Components.ChildContent",
-        "Name": "illidan_Client.Shared.Layouts.NavigationDrawer.ChildContent",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "NavigationDrawer"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.NavigationDrawer.ChildContent",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "NavigationDrawer",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": -2043986202,
-        "Kind": "Components.ChildContent",
-        "Name": "illidan_Client.Shared.Layouts.NavigationDrawer.ChildContent",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "illidan_Client.Shared.Layouts.NavigationDrawer"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.NavigationDrawer.ChildContent",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "NavigationDrawer",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 77622506,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.Toolbar",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Toolbar"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
-              "Components.EventCallback": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.Toolbar",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "Toolbar"
-        }
-      },
-      {
-        "HashCode": 706752759,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.Toolbar",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "illidan_Client.Shared.Layouts.Toolbar"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
-              "Components.EventCallback": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.Toolbar",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "Toolbar",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 386742932,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.ArticlePage",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ArticlePage"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.ArticlePage",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "ArticlePage"
-        }
-      },
-      {
-        "HashCode": -59594552,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.ArticlePage",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "illidan_Client.Shared.Layouts.ArticlePage"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.ArticlePage",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "ArticlePage",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -571324079,
-        "Kind": "Components.ChildContent",
-        "Name": "illidan_Client.Shared.Layouts.ArticlePage.ChildContent",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "ArticlePage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.ArticlePage.ChildContent",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "ArticlePage",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": -1989917685,
-        "Kind": "Components.ChildContent",
-        "Name": "illidan_Client.Shared.Layouts.ArticlePage.ChildContent",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "illidan_Client.Shared.Layouts.ArticlePage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.ArticlePage.ChildContent",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "ArticlePage",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1470311062,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.Drawer",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Drawer"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
-              "Components.EventCallback": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.Drawer",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "Drawer"
-        }
-      },
-      {
-        "HashCode": 632634951,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.Drawer",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "illidan_Client.Shared.Layouts.Drawer"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
-              "Components.EventCallback": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.Drawer",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "Drawer",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 827922360,
-        "Kind": "Components.ChildContent",
-        "Name": "illidan_Client.Shared.Layouts.Drawer.ChildContent",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "Drawer"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.Drawer.ChildContent",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "Drawer",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": 1901223484,
-        "Kind": "Components.ChildContent",
-        "Name": "illidan_Client.Shared.Layouts.Drawer.ChildContent",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "illidan_Client.Shared.Layouts.Drawer"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.Drawer.ChildContent",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "Drawer",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -169701764,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.MainLayout",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
-              "Components.EventCallback": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.MainLayout",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "MainLayout"
-        }
-      },
-      {
-        "HashCode": 1664532382,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.MainLayout",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "illidan_Client.Shared.Layouts.MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
-              "Components.EventCallback": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.MainLayout",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "MainLayout",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1029379655,
-        "Kind": "Components.ChildContent",
-        "Name": "illidan_Client.Shared.Layouts.MainLayout.Body",
-        "AssemblyName": "illidan_Client",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "MainLayout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.MainLayout.Body",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "MainLayout",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": 2116228893,
-        "Kind": "Components.ChildContent",
-        "Name": "illidan_Client.Shared.Layouts.MainLayout.Body",
-        "AssemblyName": "illidan_Client",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "illidan_Client.Shared.Layouts.MainLayout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.MainLayout.Body",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "MainLayout",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -791576336,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.LeftNavRail",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LeftNavRail"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
-              "Components.EventCallback": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.LeftNavRail",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "LeftNavRail"
-        }
-      },
-      {
-        "HashCode": -273974072,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Layouts.LeftNavRail",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "illidan_Client.Shared.Layouts.LeftNavRail"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
-              "Components.EventCallback": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Layouts.LeftNavRail",
-          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
-          "Common.TypeNameIdentifier": "LeftNavRail",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -735933089,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Components.DarkModeSwitch",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DarkModeSwitch"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Variant",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Variant",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
-              "Components.EventCallback": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Components.DarkModeSwitch",
-          "Common.TypeNamespace": "illidan_Client.Shared.Components",
-          "Common.TypeNameIdentifier": "DarkModeSwitch"
-        }
-      },
-      {
-        "HashCode": 1896650094,
-        "Kind": "Components.Component",
-        "Name": "illidan_Client.Shared.Components.DarkModeSwitch",
-        "AssemblyName": "illidan_Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "illidan_Client.Shared.Components.DarkModeSwitch"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Variant",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Variant",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "OnClickCallback",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
-            "Metadata": {
-              "Common.PropertyName": "OnClickCallback",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
-              "Components.EventCallback": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.Shared.Components.DarkModeSwitch",
-          "Common.TypeNamespace": "illidan_Client.Shared.Components",
-          "Common.TypeNameIdentifier": "DarkModeSwitch",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2050159816,
+        "HashCode": 2141236801,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Shared.Components.Card",
         "AssemblyName": "illidan_Client",
@@ -1315,7 +357,7 @@
         }
       },
       {
-        "HashCode": -1747394870,
+        "HashCode": 1566448897,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Shared.Components.Card",
         "AssemblyName": "illidan_Client",
@@ -1383,7 +425,7 @@
         }
       },
       {
-        "HashCode": -1230636516,
+        "HashCode": -1336421224,
         "Kind": "Components.ChildContent",
         "Name": "illidan_Client.Shared.Components.Card.Title",
         "AssemblyName": "illidan_Client",
@@ -1403,7 +445,7 @@
         }
       },
       {
-        "HashCode": 1539712409,
+        "HashCode": 676557702,
         "Kind": "Components.ChildContent",
         "Name": "illidan_Client.Shared.Components.Card.Title",
         "AssemblyName": "illidan_Client",
@@ -1424,7 +466,7 @@
         }
       },
       {
-        "HashCode": -890749757,
+        "HashCode": -82383528,
         "Kind": "Components.ChildContent",
         "Name": "illidan_Client.Shared.Components.Card.Description",
         "AssemblyName": "illidan_Client",
@@ -1444,7 +486,7 @@
         }
       },
       {
-        "HashCode": -1659466136,
+        "HashCode": 827491394,
         "Kind": "Components.ChildContent",
         "Name": "illidan_Client.Shared.Components.Card.Description",
         "AssemblyName": "illidan_Client",
@@ -1465,7 +507,7 @@
         }
       },
       {
-        "HashCode": -2096585146,
+        "HashCode": -832474982,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Shared.Components.CardSet",
         "AssemblyName": "illidan_Client",
@@ -1513,7 +555,7 @@
         }
       },
       {
-        "HashCode": 1312823131,
+        "HashCode": 2138855342,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Shared.Components.CardSet",
         "AssemblyName": "illidan_Client",
@@ -1562,7 +604,7 @@
         }
       },
       {
-        "HashCode": -984211420,
+        "HashCode": -17422856,
         "Kind": "Components.ChildContent",
         "Name": "illidan_Client.Shared.Components.CardSet.ChildContent",
         "AssemblyName": "illidan_Client",
@@ -1582,7 +624,7 @@
         }
       },
       {
-        "HashCode": -669465333,
+        "HashCode": 66159825,
         "Kind": "Components.ChildContent",
         "Name": "illidan_Client.Shared.Components.CardSet.ChildContent",
         "AssemblyName": "illidan_Client",
@@ -1603,7 +645,86 @@
         }
       },
       {
-        "HashCode": -895037003,
+        "HashCode": -915341785,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Components.DarkModeSwitch",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DarkModeSwitch"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Variant",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Variant",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Components.DarkModeSwitch",
+          "Common.TypeNamespace": "illidan_Client.Shared.Components",
+          "Common.TypeNameIdentifier": "DarkModeSwitch"
+        }
+      },
+      {
+        "HashCode": 835946833,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Components.DarkModeSwitch",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "illidan_Client.Shared.Components.DarkModeSwitch"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Variant",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Variant",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Components.DarkModeSwitch",
+          "Common.TypeNamespace": "illidan_Client.Shared.Components",
+          "Common.TypeNameIdentifier": "DarkModeSwitch",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 634267379,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Shared.Components.Header",
         "AssemblyName": "illidan_Client",
@@ -1621,7 +742,7 @@
         }
       },
       {
-        "HashCode": -1086857398,
+        "HashCode": 2024006186,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Shared.Components.Header",
         "AssemblyName": "illidan_Client",
@@ -1640,7 +761,7 @@
         }
       },
       {
-        "HashCode": 1330657837,
+        "HashCode": -2072954573,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Shared.Components.IconButton",
         "AssemblyName": "illidan_Client",
@@ -1688,7 +809,7 @@
         }
       },
       {
-        "HashCode": -19409680,
+        "HashCode": 669112066,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Shared.Components.IconButton",
         "AssemblyName": "illidan_Client",
@@ -1737,7 +858,7 @@
         }
       },
       {
-        "HashCode": -1083425166,
+        "HashCode": -53856776,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Shared.Components.Table",
         "AssemblyName": "illidan_Client",
@@ -1767,7 +888,7 @@
         }
       },
       {
-        "HashCode": 1235394472,
+        "HashCode": 1442569800,
         "Kind": "Components.Component",
         "Name": "illidan_Client.Shared.Components.Table",
         "AssemblyName": "illidan_Client",
@@ -1798,7 +919,7 @@
         }
       },
       {
-        "HashCode": 1308172686,
+        "HashCode": 378162461,
         "Kind": "Components.ChildContent",
         "Name": "illidan_Client.Shared.Components.Table.ChildContent",
         "AssemblyName": "illidan_Client",
@@ -1818,7 +939,7 @@
         }
       },
       {
-        "HashCode": 501317535,
+        "HashCode": -2033281654,
         "Kind": "Components.ChildContent",
         "Name": "illidan_Client.Shared.Components.Table.ChildContent",
         "AssemblyName": "illidan_Client",
@@ -1839,44 +960,923 @@
         }
       },
       {
-        "HashCode": 504315937,
+        "HashCode": -517068111,
         "Kind": "Components.Component",
-        "Name": "illidan_Client.App",
+        "Name": "illidan_Client.Shared.Layouts.ArticlePage",
         "AssemblyName": "illidan_Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "ArticlePage"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.App",
-          "Common.TypeNamespace": "illidan_Client",
-          "Common.TypeNameIdentifier": "App"
+          "Common.TypeName": "illidan_Client.Shared.Layouts.ArticlePage",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "ArticlePage"
         }
       },
       {
-        "HashCode": -600639042,
+        "HashCode": 750672036,
         "Kind": "Components.Component",
-        "Name": "illidan_Client.App",
+        "Name": "illidan_Client.Shared.Layouts.ArticlePage",
         "AssemblyName": "illidan_Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "illidan_Client.App"
+            "TagName": "illidan_Client.Shared.Layouts.ArticlePage"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "illidan_Client.App",
-          "Common.TypeNamespace": "illidan_Client",
-          "Common.TypeNameIdentifier": "App",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.ArticlePage",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "ArticlePage",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 690083705,
+        "HashCode": 1000022132,
+        "Kind": "Components.ChildContent",
+        "Name": "illidan_Client.Shared.Layouts.ArticlePage.ChildContent",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "ArticlePage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.ArticlePage.ChildContent",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "ArticlePage",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1830243257,
+        "Kind": "Components.ChildContent",
+        "Name": "illidan_Client.Shared.Layouts.ArticlePage.ChildContent",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "illidan_Client.Shared.Layouts.ArticlePage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.ArticlePage.ChildContent",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "ArticlePage",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -480026087,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.Drawer",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Drawer"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.Drawer",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "Drawer"
+        }
+      },
+      {
+        "HashCode": 1263371728,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.Drawer",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "illidan_Client.Shared.Layouts.Drawer"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.Drawer",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "Drawer",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 172611672,
+        "Kind": "Components.ChildContent",
+        "Name": "illidan_Client.Shared.Layouts.Drawer.ChildContent",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "Drawer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.Drawer.ChildContent",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "Drawer",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1424985870,
+        "Kind": "Components.ChildContent",
+        "Name": "illidan_Client.Shared.Layouts.Drawer.ChildContent",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "illidan_Client.Shared.Layouts.Drawer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.Drawer.ChildContent",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "Drawer",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -396008832,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.Footer",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Footer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.Footer",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "Footer"
+        }
+      },
+      {
+        "HashCode": 1561759350,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.Footer",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "illidan_Client.Shared.Layouts.Footer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.Footer",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "Footer",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 455362523,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.LandingPage",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LandingPage"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.LandingPage",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "LandingPage"
+        }
+      },
+      {
+        "HashCode": -196507474,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.LandingPage",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "illidan_Client.Shared.Layouts.LandingPage"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.LandingPage",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "LandingPage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 548979932,
+        "Kind": "Components.ChildContent",
+        "Name": "illidan_Client.Shared.Layouts.LandingPage.ChildContent",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "LandingPage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.LandingPage.ChildContent",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "LandingPage",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1436388118,
+        "Kind": "Components.ChildContent",
+        "Name": "illidan_Client.Shared.Layouts.LandingPage.ChildContent",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "illidan_Client.Shared.Layouts.LandingPage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.LandingPage.ChildContent",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "LandingPage",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 158276431,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.LeftNavRail",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LeftNavRail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.LeftNavRail",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "LeftNavRail"
+        }
+      },
+      {
+        "HashCode": 484822018,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.LeftNavRail",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "illidan_Client.Shared.Layouts.LeftNavRail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.LeftNavRail",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "LeftNavRail",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1695411831,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.MainLayout",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.MainLayout",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "MainLayout"
+        }
+      },
+      {
+        "HashCode": -2147117405,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.MainLayout",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "illidan_Client.Shared.Layouts.MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.MainLayout",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "MainLayout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 367068523,
+        "Kind": "Components.ChildContent",
+        "Name": "illidan_Client.Shared.Layouts.MainLayout.Body",
+        "AssemblyName": "illidan_Client",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.MainLayout.Body",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "MainLayout",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1295433091,
+        "Kind": "Components.ChildContent",
+        "Name": "illidan_Client.Shared.Layouts.MainLayout.Body",
+        "AssemblyName": "illidan_Client",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "illidan_Client.Shared.Layouts.MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.MainLayout.Body",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "MainLayout",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1688740509,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.NavigationDrawer",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavigationDrawer"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.NavigationDrawer",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "NavigationDrawer"
+        }
+      },
+      {
+        "HashCode": 354519765,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.NavigationDrawer",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "illidan_Client.Shared.Layouts.NavigationDrawer"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.NavigationDrawer",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "NavigationDrawer",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1129052173,
+        "Kind": "Components.ChildContent",
+        "Name": "illidan_Client.Shared.Layouts.NavigationDrawer.ChildContent",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "NavigationDrawer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.NavigationDrawer.ChildContent",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "NavigationDrawer",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -1148894726,
+        "Kind": "Components.ChildContent",
+        "Name": "illidan_Client.Shared.Layouts.NavigationDrawer.ChildContent",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "illidan_Client.Shared.Layouts.NavigationDrawer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.NavigationDrawer.ChildContent",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "NavigationDrawer",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 299763238,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.Toolbar",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Toolbar"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.Toolbar",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "Toolbar"
+        }
+      },
+      {
+        "HashCode": -89537414,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.Toolbar",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "illidan_Client.Shared.Layouts.Toolbar"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.Toolbar",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "Toolbar",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2005190595,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.TopAppBarFixed",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TopAppBarFixed"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ActionItems",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ActionItems",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.TopAppBarFixed",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "TopAppBarFixed"
+        }
+      },
+      {
+        "HashCode": 157375590,
+        "Kind": "Components.Component",
+        "Name": "illidan_Client.Shared.Layouts.TopAppBarFixed",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "illidan_Client.Shared.Layouts.TopAppBarFixed"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ActionItems",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ActionItems",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickCallback",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnClickCallback",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.TopAppBarFixed",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "TopAppBarFixed",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1741890996,
+        "Kind": "Components.ChildContent",
+        "Name": "illidan_Client.Shared.Layouts.TopAppBarFixed.ActionItems",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ActionItems",
+            "ParentTag": "TopAppBarFixed"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.TopAppBarFixed.ActionItems",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "TopAppBarFixed",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1759659952,
+        "Kind": "Components.ChildContent",
+        "Name": "illidan_Client.Shared.Layouts.TopAppBarFixed.ActionItems",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ActionItems",
+            "ParentTag": "illidan_Client.Shared.Layouts.TopAppBarFixed"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.TopAppBarFixed.ActionItems",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "TopAppBarFixed",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -914121291,
+        "Kind": "Components.ChildContent",
+        "Name": "illidan_Client.Shared.Layouts.TopAppBarFixed.ChildContent",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "TopAppBarFixed"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.TopAppBarFixed.ChildContent",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "TopAppBarFixed",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1758848615,
+        "Kind": "Components.ChildContent",
+        "Name": "illidan_Client.Shared.Layouts.TopAppBarFixed.ChildContent",
+        "AssemblyName": "illidan_Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "illidan_Client.Shared.Layouts.TopAppBarFixed"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "illidan_Client.Shared.Layouts.TopAppBarFixed.ChildContent",
+          "Common.TypeNamespace": "illidan_Client.Shared.Layouts",
+          "Common.TypeNameIdentifier": "TopAppBarFixed",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1801077026,
         "Kind": "Components.Component",
         "Name": "Blazored.Toast.BlazoredToast",
         "AssemblyName": "Blazored.Toast",
@@ -1942,7 +1942,7 @@
         }
       },
       {
-        "HashCode": 2064855178,
+        "HashCode": -103994943,
         "Kind": "Components.Component",
         "Name": "Blazored.Toast.BlazoredToast",
         "AssemblyName": "Blazored.Toast",
@@ -2009,7 +2009,7 @@
         }
       },
       {
-        "HashCode": -1409875703,
+        "HashCode": 1346465084,
         "Kind": "Components.ChildContent",
         "Name": "Blazored.Toast.BlazoredToast.ChildContent",
         "AssemblyName": "Blazored.Toast",
@@ -2029,7 +2029,7 @@
         }
       },
       {
-        "HashCode": -341622204,
+        "HashCode": 2126268801,
         "Kind": "Components.ChildContent",
         "Name": "Blazored.Toast.BlazoredToast.ChildContent",
         "AssemblyName": "Blazored.Toast",
@@ -2050,7 +2050,7 @@
         }
       },
       {
-        "HashCode": -457567611,
+        "HashCode": 44521188,
         "Kind": "Components.Component",
         "Name": "Blazored.Toast.BlazoredToasts",
         "AssemblyName": "Blazored.Toast",
@@ -2216,7 +2216,7 @@
         }
       },
       {
-        "HashCode": 2028419341,
+        "HashCode": 272003083,
         "Kind": "Components.Component",
         "Name": "Blazored.Toast.BlazoredToasts",
         "AssemblyName": "Blazored.Toast",
@@ -2383,7 +2383,7 @@
         }
       },
       {
-        "HashCode": 1743546994,
+        "HashCode": 1287979810,
         "Kind": "Components.ChildContent",
         "Name": "Blazored.Toast.BlazoredToasts.CloseButtonContent",
         "AssemblyName": "Blazored.Toast",
@@ -2403,7 +2403,7 @@
         }
       },
       {
-        "HashCode": -777270501,
+        "HashCode": 1081808304,
         "Kind": "Components.ChildContent",
         "Name": "Blazored.Toast.BlazoredToasts.CloseButtonContent",
         "AssemblyName": "Blazored.Toast",
@@ -2424,7 +2424,7 @@
         }
       },
       {
-        "HashCode": -1550243888,
+        "HashCode": 852176661,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -2508,7 +2508,7 @@
         }
       },
       {
-        "HashCode": 9049412,
+        "HashCode": 493622783,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -2593,7 +2593,7 @@
         }
       },
       {
-        "HashCode": -723896088,
+        "HashCode": 1277365399,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -2626,7 +2626,7 @@
         }
       },
       {
-        "HashCode": -1424416969,
+        "HashCode": -1595662194,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -2660,7 +2660,7 @@
         }
       },
       {
-        "HashCode": 395548536,
+        "HashCode": 1320670872,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -2681,7 +2681,7 @@
         }
       },
       {
-        "HashCode": 224378114,
+        "HashCode": -1841114634,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -2703,7 +2703,7 @@
         }
       },
       {
-        "HashCode": 1930224527,
+        "HashCode": -544821264,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -2808,7 +2808,7 @@
         }
       },
       {
-        "HashCode": 1354494344,
+        "HashCode": -1794821673,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -2914,7 +2914,7 @@
         }
       },
       {
-        "HashCode": 345776168,
+        "HashCode": 392326912,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -2947,7 +2947,7 @@
         }
       },
       {
-        "HashCode": -1444693708,
+        "HashCode": -538090492,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -2981,7 +2981,7 @@
         }
       },
       {
-        "HashCode": -537886656,
+        "HashCode": -38340723,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -3014,7 +3014,7 @@
         }
       },
       {
-        "HashCode": 993649472,
+        "HashCode": 1399825847,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -3048,7 +3048,7 @@
         }
       },
       {
-        "HashCode": 1306373126,
+        "HashCode": -289110967,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -3081,7 +3081,7 @@
         }
       },
       {
-        "HashCode": -881490436,
+        "HashCode": 1351619823,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -3115,7 +3115,7 @@
         }
       },
       {
-        "HashCode": 1160100783,
+        "HashCode": 2122402880,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -3136,7 +3136,7 @@
         }
       },
       {
-        "HashCode": -1710901673,
+        "HashCode": 918920336,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -3158,7 +3158,7 @@
         }
       },
       {
-        "HashCode": 1601098638,
+        "HashCode": -1921941156,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -3189,7 +3189,7 @@
         }
       },
       {
-        "HashCode": 1454425612,
+        "HashCode": 1002994304,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -3221,7 +3221,7 @@
         }
       },
       {
-        "HashCode": -659855518,
+        "HashCode": -94390110,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -3242,7 +3242,7 @@
         }
       },
       {
-        "HashCode": -41650461,
+        "HashCode": 573764110,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -3264,7 +3264,7 @@
         }
       },
       {
-        "HashCode": 1644867913,
+        "HashCode": -852952598,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3339,7 +3339,7 @@
         }
       },
       {
-        "HashCode": 2142586874,
+        "HashCode": 979311733,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3415,7 +3415,7 @@
         }
       },
       {
-        "HashCode": -874348612,
+        "HashCode": -561754908,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3436,7 +3436,7 @@
         }
       },
       {
-        "HashCode": 1250591576,
+        "HashCode": -1034036196,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3458,7 +3458,7 @@
         }
       },
       {
-        "HashCode": -2022612719,
+        "HashCode": -1889527739,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3500,7 +3500,7 @@
         }
       },
       {
-        "HashCode": 467521224,
+        "HashCode": 1902671140,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3543,7 +3543,7 @@
         }
       },
       {
-        "HashCode": 774414687,
+        "HashCode": 2018991213,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3585,7 +3585,7 @@
         }
       },
       {
-        "HashCode": -1637198039,
+        "HashCode": 1469371805,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3628,7 +3628,7 @@
         }
       },
       {
-        "HashCode": 2103291742,
+        "HashCode": 1710897755,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3649,7 +3649,7 @@
         }
       },
       {
-        "HashCode": 1199382667,
+        "HashCode": 806509006,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3671,7 +3671,7 @@
         }
       },
       {
-        "HashCode": -738819825,
+        "HashCode": 1145113013,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3713,7 +3713,7 @@
         }
       },
       {
-        "HashCode": -337456815,
+        "HashCode": -1924244249,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3756,7 +3756,7 @@
         }
       },
       {
-        "HashCode": 39747514,
+        "HashCode": 324482699,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3864,7 +3864,7 @@
         }
       },
       {
-        "HashCode": 198369167,
+        "HashCode": -1839597154,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3973,7 +3973,7 @@
         }
       },
       {
-        "HashCode": 533259895,
+        "HashCode": -816487007,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3994,7 +3994,7 @@
         }
       },
       {
-        "HashCode": 749440421,
+        "HashCode": -2101892776,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4016,7 +4016,7 @@
         }
       },
       {
-        "HashCode": 14039785,
+        "HashCode": -1759794887,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4049,7 +4049,7 @@
         }
       },
       {
-        "HashCode": 1512156677,
+        "HashCode": 611846032,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4083,7 +4083,7 @@
         }
       },
       {
-        "HashCode": 448040254,
+        "HashCode": 1790133905,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4104,7 +4104,7 @@
         }
       },
       {
-        "HashCode": 606195381,
+        "HashCode": 1640403174,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4126,7 +4126,7 @@
         }
       },
       {
-        "HashCode": 687525600,
+        "HashCode": 255611136,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -4145,7 +4145,7 @@
         }
       },
       {
-        "HashCode": 47753271,
+        "HashCode": 638803879,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -4165,7 +4165,7 @@
         }
       },
       {
-        "HashCode": 1989361839,
+        "HashCode": -1984455884,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4270,7 +4270,7 @@
         }
       },
       {
-        "HashCode": -1959970690,
+        "HashCode": -213326946,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4376,7 +4376,7 @@
         }
       },
       {
-        "HashCode": 1512382059,
+        "HashCode": -496311398,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4409,7 +4409,7 @@
         }
       },
       {
-        "HashCode": -522602009,
+        "HashCode": 1583000227,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4443,7 +4443,7 @@
         }
       },
       {
-        "HashCode": 711204790,
+        "HashCode": 2109920494,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4515,7 +4515,7 @@
         }
       },
       {
-        "HashCode": 1310668122,
+        "HashCode": 842402907,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4588,7 +4588,7 @@
         }
       },
       {
-        "HashCode": 804902378,
+        "HashCode": -1822281881,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4696,7 +4696,7 @@
         }
       },
       {
-        "HashCode": 466624860,
+        "HashCode": -1300526474,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4805,7 +4805,7 @@
         }
       },
       {
-        "HashCode": -2132909,
+        "HashCode": 959271843,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4847,7 +4847,7 @@
         }
       },
       {
-        "HashCode": -814395421,
+        "HashCode": -1827888249,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4890,7 +4890,7 @@
         }
       },
       {
-        "HashCode": 839075267,
+        "HashCode": 2042040271,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4987,7 +4987,7 @@
         }
       },
       {
-        "HashCode": -1798409118,
+        "HashCode": -660341772,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5085,7 +5085,7 @@
         }
       },
       {
-        "HashCode": -704779363,
+        "HashCode": -719569317,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5149,7 +5149,7 @@
         }
       },
       {
-        "HashCode": -193316787,
+        "HashCode": -774587987,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5214,7 +5214,7 @@
         }
       },
       {
-        "HashCode": -467164024,
+        "HashCode": -462224576,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5322,7 +5322,7 @@
         }
       },
       {
-        "HashCode": 120042686,
+        "HashCode": 1375715435,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5431,7 +5431,7 @@
         }
       },
       {
-        "HashCode": 266249111,
+        "HashCode": -386841060,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5452,7 +5452,7 @@
         }
       },
       {
-        "HashCode": -706700414,
+        "HashCode": 1292818083,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5474,7 +5474,7 @@
         }
       },
       {
-        "HashCode": 83642388,
+        "HashCode": -1103398659,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5572,7 +5572,7 @@
         }
       },
       {
-        "HashCode": -746205064,
+        "HashCode": -315048695,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5671,7 +5671,7 @@
         }
       },
       {
-        "HashCode": 834421091,
+        "HashCode": -1980909565,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5692,7 +5692,7 @@
         }
       },
       {
-        "HashCode": 1291613006,
+        "HashCode": -387795484,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5714,7 +5714,7 @@
         }
       },
       {
-        "HashCode": 533368906,
+        "HashCode": -1110253113,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5786,7 +5786,7 @@
         }
       },
       {
-        "HashCode": -1233850945,
+        "HashCode": 1087341511,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5859,7 +5859,7 @@
         }
       },
       {
-        "HashCode": -473955427,
+        "HashCode": -594229491,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5931,7 +5931,7 @@
         }
       },
       {
-        "HashCode": 1117263602,
+        "HashCode": 1309917781,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6004,7 +6004,7 @@
         }
       },
       {
-        "HashCode": 553777655,
+        "HashCode": -1800619342,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6058,7 +6058,7 @@
         }
       },
       {
-        "HashCode": 156557104,
+        "HashCode": -344914012,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6113,7 +6113,7 @@
         }
       },
       {
-        "HashCode": -1553745491,
+        "HashCode": 1502758883,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6154,7 +6154,7 @@
         }
       },
       {
-        "HashCode": -359989770,
+        "HashCode": 144513482,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6196,7 +6196,7 @@
         }
       },
       {
-        "HashCode": -2099691383,
+        "HashCode": -219114769,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6237,7 +6237,7 @@
         }
       },
       {
-        "HashCode": -1133046254,
+        "HashCode": 614956111,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6279,7 +6279,7 @@
         }
       },
       {
-        "HashCode": -1153924793,
+        "HashCode": 1554933834,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6342,7 +6342,7 @@
         }
       },
       {
-        "HashCode": -900947828,
+        "HashCode": 1338513588,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6406,7 +6406,7 @@
         }
       },
       {
-        "HashCode": 112664531,
+        "HashCode": -1012939700,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6427,7 +6427,7 @@
         }
       },
       {
-        "HashCode": 130776862,
+        "HashCode": -2131925666,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6449,7 +6449,7 @@
         }
       },
       {
-        "HashCode": 1361920232,
+        "HashCode": 1725160495,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6481,7 +6481,7 @@
         }
       },
       {
-        "HashCode": -1089084518,
+        "HashCode": 1606001922,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6514,7 +6514,7 @@
         }
       },
       {
-        "HashCode": 1377478308,
+        "HashCode": -2083932430,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6535,7 +6535,7 @@
         }
       },
       {
-        "HashCode": 444649786,
+        "HashCode": -587661223,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6557,7 +6557,7 @@
         }
       },
       {
-        "HashCode": 980589208,
+        "HashCode": -145961112,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6576,7 +6576,7 @@
         }
       },
       {
-        "HashCode": 1886085036,
+        "HashCode": -2129274784,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6596,7 +6596,7 @@
         }
       },
       {
-        "HashCode": -1169699330,
+        "HashCode": 1598969703,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6628,7 +6628,7 @@
         }
       },
       {
-        "HashCode": -1109182911,
+        "HashCode": 1636551373,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6661,7 +6661,7 @@
         }
       },
       {
-        "HashCode": -359058410,
+        "HashCode": 221168038,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6682,7 +6682,7 @@
         }
       },
       {
-        "HashCode": 822582095,
+        "HashCode": 760343760,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6704,7 +6704,7 @@
         }
       },
       {
-        "HashCode": -858554730,
+        "HashCode": -1100709470,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6767,7 +6767,7 @@
         }
       },
       {
-        "HashCode": 1830302031,
+        "HashCode": 1500458718,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6831,7 +6831,7 @@
         }
       },
       {
-        "HashCode": -2053531224,
+        "HashCode": -333792623,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6852,7 +6852,7 @@
         }
       },
       {
-        "HashCode": -2101392660,
+        "HashCode": -682793974,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6874,7 +6874,7 @@
         }
       },
       {
-        "HashCode": 31517740,
+        "HashCode": -1699250648,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6907,7 +6907,7 @@
         }
       },
       {
-        "HashCode": 1029867309,
+        "HashCode": -780253200,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -6941,7 +6941,7 @@
         }
       },
       {
-        "HashCode": 28672092,
+        "HashCode": -1501865203,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -7063,7 +7063,7 @@
         }
       },
       {
-        "HashCode": -1196122602,
+        "HashCode": -2013024616,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -7186,7 +7186,7 @@
         }
       },
       {
-        "HashCode": -1813383387,
+        "HashCode": 355952094,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -7219,7 +7219,7 @@
         }
       },
       {
-        "HashCode": 1054036490,
+        "HashCode": 277388667,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -7253,7 +7253,7 @@
         }
       },
       {
-        "HashCode": 1809114361,
+        "HashCode": 515011900,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -7286,7 +7286,7 @@
         }
       },
       {
-        "HashCode": 888727306,
+        "HashCode": -1429025880,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -7320,7 +7320,7 @@
         }
       },
       {
-        "HashCode": -1121591271,
+        "HashCode": 1938042399,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -7353,7 +7353,7 @@
         }
       },
       {
-        "HashCode": -317891199,
+        "HashCode": -1331330948,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -7387,7 +7387,7 @@
         }
       },
       {
-        "HashCode": 1520560009,
+        "HashCode": 2097096969,
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7470,7 +7470,7 @@
         }
       },
       {
-        "HashCode": -345498129,
+        "HashCode": -1387563804,
         "Kind": "Components.EventHandler",
         "Name": "onblur",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7553,7 +7553,7 @@
         }
       },
       {
-        "HashCode": 195453401,
+        "HashCode": -490357808,
         "Kind": "Components.EventHandler",
         "Name": "onfocusin",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7636,7 +7636,7 @@
         }
       },
       {
-        "HashCode": -1653646421,
+        "HashCode": -1456748610,
         "Kind": "Components.EventHandler",
         "Name": "onfocusout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7719,7 +7719,7 @@
         }
       },
       {
-        "HashCode": 155119108,
+        "HashCode": 163455873,
         "Kind": "Components.EventHandler",
         "Name": "onmouseover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7802,7 +7802,7 @@
         }
       },
       {
-        "HashCode": 2032849096,
+        "HashCode": 690276866,
         "Kind": "Components.EventHandler",
         "Name": "onmouseout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7885,7 +7885,7 @@
         }
       },
       {
-        "HashCode": 920067117,
+        "HashCode": 1503705759,
         "Kind": "Components.EventHandler",
         "Name": "onmousemove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7968,7 +7968,7 @@
         }
       },
       {
-        "HashCode": 460823561,
+        "HashCode": -987588631,
         "Kind": "Components.EventHandler",
         "Name": "onmousedown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8051,7 +8051,7 @@
         }
       },
       {
-        "HashCode": -648594575,
+        "HashCode": -992728216,
         "Kind": "Components.EventHandler",
         "Name": "onmouseup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8134,7 +8134,7 @@
         }
       },
       {
-        "HashCode": 168757178,
+        "HashCode": 1450882225,
         "Kind": "Components.EventHandler",
         "Name": "onclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8217,7 +8217,7 @@
         }
       },
       {
-        "HashCode": -810263836,
+        "HashCode": 862783364,
         "Kind": "Components.EventHandler",
         "Name": "ondblclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8300,7 +8300,7 @@
         }
       },
       {
-        "HashCode": -1401482947,
+        "HashCode": 1229787975,
         "Kind": "Components.EventHandler",
         "Name": "onwheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8383,7 +8383,7 @@
         }
       },
       {
-        "HashCode": -300079785,
+        "HashCode": 1316002311,
         "Kind": "Components.EventHandler",
         "Name": "onmousewheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8466,7 +8466,7 @@
         }
       },
       {
-        "HashCode": -292520277,
+        "HashCode": -673585994,
         "Kind": "Components.EventHandler",
         "Name": "oncontextmenu",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8549,7 +8549,7 @@
         }
       },
       {
-        "HashCode": -629788265,
+        "HashCode": 268144950,
         "Kind": "Components.EventHandler",
         "Name": "ondrag",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8632,7 +8632,7 @@
         }
       },
       {
-        "HashCode": 182017848,
+        "HashCode": 564753400,
         "Kind": "Components.EventHandler",
         "Name": "ondragend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8715,7 +8715,7 @@
         }
       },
       {
-        "HashCode": -1336409117,
+        "HashCode": 1899949799,
         "Kind": "Components.EventHandler",
         "Name": "ondragenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8798,7 +8798,7 @@
         }
       },
       {
-        "HashCode": -1550569009,
+        "HashCode": -803252537,
         "Kind": "Components.EventHandler",
         "Name": "ondragleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8881,7 +8881,7 @@
         }
       },
       {
-        "HashCode": -708119486,
+        "HashCode": 1289202544,
         "Kind": "Components.EventHandler",
         "Name": "ondragover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8964,7 +8964,7 @@
         }
       },
       {
-        "HashCode": -513263470,
+        "HashCode": -1774781347,
         "Kind": "Components.EventHandler",
         "Name": "ondragstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9047,7 +9047,7 @@
         }
       },
       {
-        "HashCode": -808901918,
+        "HashCode": -1600628208,
         "Kind": "Components.EventHandler",
         "Name": "ondrop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9130,7 +9130,7 @@
         }
       },
       {
-        "HashCode": -2074394553,
+        "HashCode": 2001382881,
         "Kind": "Components.EventHandler",
         "Name": "onkeydown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9213,7 +9213,7 @@
         }
       },
       {
-        "HashCode": -1669328432,
+        "HashCode": -1350892917,
         "Kind": "Components.EventHandler",
         "Name": "onkeyup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9296,7 +9296,7 @@
         }
       },
       {
-        "HashCode": 2032993628,
+        "HashCode": -85415407,
         "Kind": "Components.EventHandler",
         "Name": "onkeypress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9379,7 +9379,7 @@
         }
       },
       {
-        "HashCode": -561887365,
+        "HashCode": 79737230,
         "Kind": "Components.EventHandler",
         "Name": "onchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9462,7 +9462,7 @@
         }
       },
       {
-        "HashCode": 1983218043,
+        "HashCode": -1001729303,
         "Kind": "Components.EventHandler",
         "Name": "oninput",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9545,7 +9545,7 @@
         }
       },
       {
-        "HashCode": -265853091,
+        "HashCode": 731420282,
         "Kind": "Components.EventHandler",
         "Name": "oninvalid",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9628,7 +9628,7 @@
         }
       },
       {
-        "HashCode": -775806249,
+        "HashCode": 843277794,
         "Kind": "Components.EventHandler",
         "Name": "onreset",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9711,7 +9711,7 @@
         }
       },
       {
-        "HashCode": 91274603,
+        "HashCode": 482729351,
         "Kind": "Components.EventHandler",
         "Name": "onselect",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9794,7 +9794,7 @@
         }
       },
       {
-        "HashCode": 2119651164,
+        "HashCode": 1308209665,
         "Kind": "Components.EventHandler",
         "Name": "onselectstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9877,7 +9877,7 @@
         }
       },
       {
-        "HashCode": -636314167,
+        "HashCode": -1300948850,
         "Kind": "Components.EventHandler",
         "Name": "onselectionchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9960,7 +9960,7 @@
         }
       },
       {
-        "HashCode": -645221570,
+        "HashCode": 1669376867,
         "Kind": "Components.EventHandler",
         "Name": "onsubmit",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10043,7 +10043,7 @@
         }
       },
       {
-        "HashCode": -963266648,
+        "HashCode": -1619283743,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10126,7 +10126,7 @@
         }
       },
       {
-        "HashCode": -1481936026,
+        "HashCode": 408213978,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10209,7 +10209,7 @@
         }
       },
       {
-        "HashCode": 2027409003,
+        "HashCode": 1743888439,
         "Kind": "Components.EventHandler",
         "Name": "onbeforepaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10292,7 +10292,7 @@
         }
       },
       {
-        "HashCode": 1478257874,
+        "HashCode": -889708159,
         "Kind": "Components.EventHandler",
         "Name": "oncopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10375,7 +10375,7 @@
         }
       },
       {
-        "HashCode": 1871288857,
+        "HashCode": 1803005333,
         "Kind": "Components.EventHandler",
         "Name": "oncut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10458,7 +10458,7 @@
         }
       },
       {
-        "HashCode": -437477544,
+        "HashCode": 1709057804,
         "Kind": "Components.EventHandler",
         "Name": "onpaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10541,7 +10541,7 @@
         }
       },
       {
-        "HashCode": 285305769,
+        "HashCode": -293955476,
         "Kind": "Components.EventHandler",
         "Name": "ontouchcancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10624,7 +10624,7 @@
         }
       },
       {
-        "HashCode": -1351315759,
+        "HashCode": -842840388,
         "Kind": "Components.EventHandler",
         "Name": "ontouchend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10707,7 +10707,7 @@
         }
       },
       {
-        "HashCode": -978728734,
+        "HashCode": 1085595827,
         "Kind": "Components.EventHandler",
         "Name": "ontouchmove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10790,7 +10790,7 @@
         }
       },
       {
-        "HashCode": -695548396,
+        "HashCode": -2013556500,
         "Kind": "Components.EventHandler",
         "Name": "ontouchstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10873,7 +10873,7 @@
         }
       },
       {
-        "HashCode": 423134402,
+        "HashCode": -544920470,
         "Kind": "Components.EventHandler",
         "Name": "ontouchenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10956,7 +10956,7 @@
         }
       },
       {
-        "HashCode": 1337155875,
+        "HashCode": -733875511,
         "Kind": "Components.EventHandler",
         "Name": "ontouchleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11039,7 +11039,7 @@
         }
       },
       {
-        "HashCode": -788710081,
+        "HashCode": 1940674300,
         "Kind": "Components.EventHandler",
         "Name": "ongotpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11122,7 +11122,7 @@
         }
       },
       {
-        "HashCode": 917589018,
+        "HashCode": -1017147868,
         "Kind": "Components.EventHandler",
         "Name": "onlostpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11205,7 +11205,7 @@
         }
       },
       {
-        "HashCode": 1143019061,
+        "HashCode": 227465369,
         "Kind": "Components.EventHandler",
         "Name": "onpointercancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11288,7 +11288,7 @@
         }
       },
       {
-        "HashCode": -1928285623,
+        "HashCode": -1056396008,
         "Kind": "Components.EventHandler",
         "Name": "onpointerdown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11371,7 +11371,7 @@
         }
       },
       {
-        "HashCode": -1302419875,
+        "HashCode": -1057895297,
         "Kind": "Components.EventHandler",
         "Name": "onpointerenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11454,7 +11454,7 @@
         }
       },
       {
-        "HashCode": 1772685663,
+        "HashCode": -1018178683,
         "Kind": "Components.EventHandler",
         "Name": "onpointerleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11537,7 +11537,7 @@
         }
       },
       {
-        "HashCode": -181416341,
+        "HashCode": 1270654568,
         "Kind": "Components.EventHandler",
         "Name": "onpointermove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11620,7 +11620,7 @@
         }
       },
       {
-        "HashCode": 1252294323,
+        "HashCode": 421215040,
         "Kind": "Components.EventHandler",
         "Name": "onpointerout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11703,7 +11703,7 @@
         }
       },
       {
-        "HashCode": 2056807427,
+        "HashCode": -960209650,
         "Kind": "Components.EventHandler",
         "Name": "onpointerover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11786,7 +11786,7 @@
         }
       },
       {
-        "HashCode": 1339113945,
+        "HashCode": -1564178525,
         "Kind": "Components.EventHandler",
         "Name": "onpointerup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11869,7 +11869,7 @@
         }
       },
       {
-        "HashCode": -990365948,
+        "HashCode": 1094051813,
         "Kind": "Components.EventHandler",
         "Name": "oncanplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11952,7 +11952,7 @@
         }
       },
       {
-        "HashCode": -874945131,
+        "HashCode": 251573509,
         "Kind": "Components.EventHandler",
         "Name": "oncanplaythrough",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12035,7 +12035,7 @@
         }
       },
       {
-        "HashCode": -1591434677,
+        "HashCode": 1888376493,
         "Kind": "Components.EventHandler",
         "Name": "oncuechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12118,7 +12118,7 @@
         }
       },
       {
-        "HashCode": 1331910988,
+        "HashCode": 1523038091,
         "Kind": "Components.EventHandler",
         "Name": "ondurationchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12201,7 +12201,7 @@
         }
       },
       {
-        "HashCode": 1185372269,
+        "HashCode": -459220891,
         "Kind": "Components.EventHandler",
         "Name": "onemptied",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12284,7 +12284,7 @@
         }
       },
       {
-        "HashCode": 1937077332,
+        "HashCode": -190352093,
         "Kind": "Components.EventHandler",
         "Name": "onpause",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12367,7 +12367,7 @@
         }
       },
       {
-        "HashCode": -6182683,
+        "HashCode": 2139375087,
         "Kind": "Components.EventHandler",
         "Name": "onplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12450,7 +12450,7 @@
         }
       },
       {
-        "HashCode": -1826148918,
+        "HashCode": -881902437,
         "Kind": "Components.EventHandler",
         "Name": "onplaying",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12533,7 +12533,7 @@
         }
       },
       {
-        "HashCode": 693447916,
+        "HashCode": -1456648579,
         "Kind": "Components.EventHandler",
         "Name": "onratechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12616,7 +12616,7 @@
         }
       },
       {
-        "HashCode": -968417301,
+        "HashCode": 432073694,
         "Kind": "Components.EventHandler",
         "Name": "onseeked",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12699,7 +12699,7 @@
         }
       },
       {
-        "HashCode": 1203904156,
+        "HashCode": 594164785,
         "Kind": "Components.EventHandler",
         "Name": "onseeking",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12782,7 +12782,7 @@
         }
       },
       {
-        "HashCode": -1989273081,
+        "HashCode": -44360706,
         "Kind": "Components.EventHandler",
         "Name": "onstalled",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12865,7 +12865,7 @@
         }
       },
       {
-        "HashCode": 922815008,
+        "HashCode": -2016765563,
         "Kind": "Components.EventHandler",
         "Name": "onstop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12948,7 +12948,7 @@
         }
       },
       {
-        "HashCode": -1778488003,
+        "HashCode": -1400779486,
         "Kind": "Components.EventHandler",
         "Name": "onsuspend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13031,7 +13031,7 @@
         }
       },
       {
-        "HashCode": -2081541934,
+        "HashCode": -424985845,
         "Kind": "Components.EventHandler",
         "Name": "ontimeupdate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13114,7 +13114,7 @@
         }
       },
       {
-        "HashCode": -1690593991,
+        "HashCode": 766662236,
         "Kind": "Components.EventHandler",
         "Name": "onvolumechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13197,7 +13197,7 @@
         }
       },
       {
-        "HashCode": 1832032289,
+        "HashCode": -961824145,
         "Kind": "Components.EventHandler",
         "Name": "onwaiting",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13280,7 +13280,7 @@
         }
       },
       {
-        "HashCode": 973455394,
+        "HashCode": 863133389,
         "Kind": "Components.EventHandler",
         "Name": "onloadstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13363,7 +13363,7 @@
         }
       },
       {
-        "HashCode": -703171098,
+        "HashCode": 1791097572,
         "Kind": "Components.EventHandler",
         "Name": "ontimeout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13446,7 +13446,7 @@
         }
       },
       {
-        "HashCode": -1851614421,
+        "HashCode": 1695878096,
         "Kind": "Components.EventHandler",
         "Name": "onabort",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13529,7 +13529,7 @@
         }
       },
       {
-        "HashCode": -969163873,
+        "HashCode": 1530398788,
         "Kind": "Components.EventHandler",
         "Name": "onload",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13612,7 +13612,7 @@
         }
       },
       {
-        "HashCode": -1312580055,
+        "HashCode": 504512454,
         "Kind": "Components.EventHandler",
         "Name": "onloadend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13695,7 +13695,7 @@
         }
       },
       {
-        "HashCode": 1032205396,
+        "HashCode": -872812366,
         "Kind": "Components.EventHandler",
         "Name": "onprogress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13778,7 +13778,7 @@
         }
       },
       {
-        "HashCode": -1343205423,
+        "HashCode": 769323359,
         "Kind": "Components.EventHandler",
         "Name": "onerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13861,7 +13861,7 @@
         }
       },
       {
-        "HashCode": 411744685,
+        "HashCode": -72102647,
         "Kind": "Components.EventHandler",
         "Name": "onactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13944,7 +13944,7 @@
         }
       },
       {
-        "HashCode": 1410830361,
+        "HashCode": 1260854111,
         "Kind": "Components.EventHandler",
         "Name": "onbeforeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14027,7 +14027,7 @@
         }
       },
       {
-        "HashCode": -378737711,
+        "HashCode": -256234823,
         "Kind": "Components.EventHandler",
         "Name": "onbeforedeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14110,7 +14110,7 @@
         }
       },
       {
-        "HashCode": -796848153,
+        "HashCode": 92644202,
         "Kind": "Components.EventHandler",
         "Name": "ondeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14193,7 +14193,7 @@
         }
       },
       {
-        "HashCode": -509535056,
+        "HashCode": 1611656052,
         "Kind": "Components.EventHandler",
         "Name": "onended",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14276,7 +14276,7 @@
         }
       },
       {
-        "HashCode": 741141328,
+        "HashCode": -1806568878,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14359,7 +14359,7 @@
         }
       },
       {
-        "HashCode": -763019418,
+        "HashCode": -1603916042,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14442,7 +14442,7 @@
         }
       },
       {
-        "HashCode": 2057063847,
+        "HashCode": -1094668204,
         "Kind": "Components.EventHandler",
         "Name": "onloadeddata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14525,7 +14525,7 @@
         }
       },
       {
-        "HashCode": 1857638075,
+        "HashCode": -1308920685,
         "Kind": "Components.EventHandler",
         "Name": "onloadedmetadata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14608,7 +14608,7 @@
         }
       },
       {
-        "HashCode": 125478485,
+        "HashCode": -2118905548,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14691,7 +14691,7 @@
         }
       },
       {
-        "HashCode": -774381671,
+        "HashCode": 1388003444,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14774,7 +14774,7 @@
         }
       },
       {
-        "HashCode": 595811167,
+        "HashCode": 61603302,
         "Kind": "Components.EventHandler",
         "Name": "onreadystatechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14857,7 +14857,7 @@
         }
       },
       {
-        "HashCode": 75391890,
+        "HashCode": -1429192459,
         "Kind": "Components.EventHandler",
         "Name": "onscroll",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14940,7 +14940,7 @@
         }
       },
       {
-        "HashCode": 307877478,
+        "HashCode": -744070356,
         "Kind": "Components.EventHandler",
         "Name": "ontoggle",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15023,7 +15023,7 @@
         }
       },
       {
-        "HashCode": -1767698938,
+        "HashCode": 2069745556,
         "Kind": "Components.Splat",
         "Name": "Attributes",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15062,7 +15062,7 @@
         }
       },
       {
-        "HashCode": -2010451216,
+        "HashCode": -1429779823,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15158,7 +15158,7 @@
         }
       },
       {
-        "HashCode": -245155576,
+        "HashCode": -4380992,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15280,7 +15280,7 @@
         }
       },
       {
-        "HashCode": 1623908567,
+        "HashCode": 1789503373,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15402,7 +15402,7 @@
         }
       },
       {
-        "HashCode": -200134107,
+        "HashCode": 1886173071,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15535,7 +15535,7 @@
         }
       },
       {
-        "HashCode": 949006875,
+        "HashCode": -424968732,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15668,7 +15668,7 @@
         }
       },
       {
-        "HashCode": 512501073,
+        "HashCode": 1889630891,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15801,7 +15801,7 @@
         }
       },
       {
-        "HashCode": 1360802870,
+        "HashCode": -1366281967,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15934,7 +15934,7 @@
         }
       },
       {
-        "HashCode": -652562125,
+        "HashCode": -778823690,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16067,7 +16067,7 @@
         }
       },
       {
-        "HashCode": 102038426,
+        "HashCode": -548489554,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16200,7 +16200,7 @@
         }
       },
       {
-        "HashCode": -1995409163,
+        "HashCode": -1300456219,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16333,7 +16333,7 @@
         }
       },
       {
-        "HashCode": 1342100936,
+        "HashCode": 206914661,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16466,7 +16466,7 @@
         }
       },
       {
-        "HashCode": 2117646066,
+        "HashCode": 2052964872,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16599,7 +16599,7 @@
         }
       },
       {
-        "HashCode": -1262825673,
+        "HashCode": 360683296,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16732,7 +16732,7 @@
         }
       },
       {
-        "HashCode": -1004262486,
+        "HashCode": -2138730228,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16865,7 +16865,7 @@
         }
       },
       {
-        "HashCode": -969641646,
+        "HashCode": 1900761773,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16998,7 +16998,7 @@
         }
       },
       {
-        "HashCode": -2103769883,
+        "HashCode": 1919070422,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17120,7 +17120,7 @@
         }
       },
       {
-        "HashCode": 1687955510,
+        "HashCode": -871501046,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17242,7 +17242,7 @@
         }
       },
       {
-        "HashCode": 1804897590,
+        "HashCode": -1275470269,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17329,7 +17329,7 @@
         }
       },
       {
-        "HashCode": 813443970,
+        "HashCode": 129524152,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17417,7 +17417,7 @@
         }
       },
       {
-        "HashCode": 1650581367,
+        "HashCode": -1418248154,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17504,7 +17504,7 @@
         }
       },
       {
-        "HashCode": -842698245,
+        "HashCode": 478516328,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17592,7 +17592,7 @@
         }
       },
       {
-        "HashCode": 2083255666,
+        "HashCode": 894705786,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17679,7 +17679,7 @@
         }
       },
       {
-        "HashCode": -343546554,
+        "HashCode": -573613623,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17767,7 +17767,7 @@
         }
       },
       {
-        "HashCode": -970148854,
+        "HashCode": 19576287,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17854,7 +17854,7 @@
         }
       },
       {
-        "HashCode": -724515840,
+        "HashCode": 1978508621,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17942,7 +17942,7 @@
         }
       },
       {
-        "HashCode": -1027731340,
+        "HashCode": 1942387917,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18029,7 +18029,7 @@
         }
       },
       {
-        "HashCode": 419782675,
+        "HashCode": 528671427,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18117,7 +18117,7 @@
         }
       },
       {
-        "HashCode": 1681030833,
+        "HashCode": 131237570,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18204,7 +18204,7 @@
         }
       },
       {
-        "HashCode": 1027610625,
+        "HashCode": -1251428640,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18292,7 +18292,7 @@
         }
       },
       {
-        "HashCode": -526680547,
+        "HashCode": 400685848,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18379,7 +18379,7 @@
         }
       },
       {
-        "HashCode": 847789988,
+        "HashCode": 997848360,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18467,7 +18467,7 @@
         }
       },
       {
-        "HashCode": -1415868406,
+        "HashCode": -34440318,
         "Kind": "Components.Ref",
         "Name": "Ref",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18506,7 +18506,7 @@
         }
       },
       {
-        "HashCode": -327759162,
+        "HashCode": 891350371,
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18550,21 +18550,6 @@
   "RootNamespace": "illidan_Client",
   "Documents": [
     {
-      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Pages\\MoneyExchange.razor",
-      "TargetPath": "Pages\\MoneyExchange.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Layouts\\LandingPage.razor",
-      "TargetPath": "Shared\\Layouts\\LandingPage.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Pages\\BusSchedule.razor",
-      "TargetPath": "Pages\\BusSchedule.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Pages\\Signin.razor",
       "TargetPath": "Pages\\Signin.razor",
       "FileKind": "component"
@@ -18575,18 +18560,13 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Pages\\Booking.razor",
-      "TargetPath": "Pages\\Booking.razor",
+      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Pages\\MoneyExchange.razor",
+      "TargetPath": "Pages\\MoneyExchange.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Pages\\GetStarted.razor",
-      "TargetPath": "Pages\\GetStarted.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Components\\DarkModeSwitch.razor",
-      "TargetPath": "Shared\\Components\\DarkModeSwitch.razor",
+      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Layouts\\Toolbar.razor",
+      "TargetPath": "Shared\\Layouts\\Toolbar.razor",
       "FileKind": "component"
     },
     {
@@ -18600,18 +18580,18 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Layouts\\NavigationDrawer.razor",
-      "TargetPath": "Shared\\Layouts\\NavigationDrawer.razor",
+      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Pages\\BusSchedule.razor",
+      "TargetPath": "Pages\\BusSchedule.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Layouts\\Toolbar.razor",
-      "TargetPath": "Shared\\Layouts\\Toolbar.razor",
+      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Components\\Table.razor",
+      "TargetPath": "Shared\\Components\\Table.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Components\\CardSet.razor",
-      "TargetPath": "Shared\\Components\\CardSet.razor",
+      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Components\\DarkModeSwitch.razor",
+      "TargetPath": "Shared\\Components\\DarkModeSwitch.razor",
       "FileKind": "component"
     },
     {
@@ -18620,18 +18600,13 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Pages\\Music.razor",
-      "TargetPath": "Pages\\Music.razor",
+      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Layouts\\ArticlePage.razor",
+      "TargetPath": "Shared\\Layouts\\ArticlePage.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Layouts\\ArticlePage.razor",
-      "TargetPath": "Shared\\Layouts\\ArticlePage.razor",
+      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Components\\CardSet.razor",
+      "TargetPath": "Shared\\Components\\CardSet.razor",
       "FileKind": "component"
     },
     {
@@ -18645,8 +18620,8 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Components\\IconButton.razor",
-      "TargetPath": "Shared\\Components\\IconButton.razor",
+      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Pages\\Music.razor",
+      "TargetPath": "Pages\\Music.razor",
       "FileKind": "component"
     },
     {
@@ -18660,8 +18635,33 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Components\\Table.razor",
-      "TargetPath": "Shared\\Components\\Table.razor",
+      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Pages\\Booking.razor",
+      "TargetPath": "Pages\\Booking.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Layouts\\NavigationDrawer.razor",
+      "TargetPath": "Shared\\Layouts\\NavigationDrawer.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Layouts\\LandingPage.razor",
+      "TargetPath": "Shared\\Layouts\\LandingPage.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Pages\\GetStarted.razor",
+      "TargetPath": "Pages\\GetStarted.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Projects\\.NetProjects\\illidan\\illidan_Client\\Shared\\Components\\IconButton.razor",
+      "TargetPath": "Shared\\Components\\IconButton.razor",
       "FileKind": "component"
     }
   ],
