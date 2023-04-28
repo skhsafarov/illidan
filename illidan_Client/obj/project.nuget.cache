@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vqUTl4q4GUc+Ftr2y7i3JtQnuuRmdYR0fFfpaREpyBghbR1ci69421LAw96IhQI2dcOt1sM/8wr9nzzRcjqamg==",
+  "dgSpecHash": "04K6kWnWEBcCrYZB5vTbz3Sf4vV1UxCcve5i/pArbQz+Gzu2KHO3y9HrCXmMcM0PJIzIsuaDpuS1fQfYZPLMqQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\.NetProjects\\illidan\\illidan_Client\\illidan_Client.csproj",
+  "projectFilePath": "D:\\Projects\\.NetProjects\\Illidan\\illidan_Client\\illidan_Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Buzz Lightyear\\.nuget\\packages\\blazored.localstorage\\4.3.0\\blazored.localstorage.4.3.0.nupkg.sha512",
     "C:\\Users\\Buzz Lightyear\\.nuget\\packages\\blazored.sessionstorage\\2.3.0\\blazored.sessionstorage.2.3.0.nupkg.sha512",

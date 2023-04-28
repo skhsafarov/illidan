@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = illidan_Client
+build_property.RootNamespace = illidan_Client
+build_property.ProjectDir = D:\Projects\.NetProjects\Illidan\illidan_Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Projects\.NetProjects\Illidan\illidan_Client
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Pages/Booking.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Pages/BusSchedule.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnVzU2NoZWR1bGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Pages/GetStarted.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2V0U3RhcnRlZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Pages/MoneyExchange.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9uZXlFeGNoYW5nZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Pages/Music.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVzaWMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Pages/Signin.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbmluLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Shared/Components/Card.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-0knqgntca0
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Shared/Components/CardSet.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcQ2FyZFNldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-543mouu6ax
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Shared/Components/DarkModeSwitch.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcRGFya01vZGVTd2l0Y2gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-esgx3hoxb8
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Shared/Components/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcSGVhZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-jhon32lrio
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Shared/Components/IconButton.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcSWNvbkJ1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-15c2dju2gk
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Shared/Components/Table.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcVGFibGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ipslgdcljw
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Shared/Layouts/ArticlePage.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcQXJ0aWNsZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-d8am01jlm6
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Shared/Layouts/Drawer.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcRHJhd2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-amfkj2o3kh
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Shared/Layouts/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcRm9vdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-9l9nqm21tj
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Shared/Layouts/LandingPage.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcTGFuZGluZ1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-sud2hus0p8
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Shared/Layouts/LeftNavRail.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcTGVmdE5hdlJhaWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-bsrt0f0569
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Shared/Layouts/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-kpid1xjzq5
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Shared/Layouts/NavigationDrawer.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcTmF2aWdhdGlvbkRyYXdlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-twj34n1d0n
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Shared/Layouts/Toolbar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcVG9vbGJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-m78tpzgfao
+
+[D:/Projects/.NetProjects/Illidan/illidan_Client/Shared/Layouts/TopAppBarFixed.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcVG9wQXBwQmFyRml4ZWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-xybtsvmmh2
