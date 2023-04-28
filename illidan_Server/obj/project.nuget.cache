@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GwYH3APsSNWNcQzXIx4VhrxiKOyXZb33YN0p9q9SOuUfWTHEQgxZkNlIEKlF5amnJ7r7oOpwbRUC70u24vs3EQ==",
+  "dgSpecHash": "7QbpDP8rVuYz98A4VJdrPj15Qbk6OyV9d5LGaOG2CboE8EvJG0nrOJXmu1xgolhzrfmNADhk5Odv3E05+ujuCA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\.NetProjects\\illidan\\illidan_Server\\illidan_Server.csproj",
+  "projectFilePath": "D:\\Projects\\.NetProjects\\Illidan\\illidan_Server\\illidan_Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Buzz Lightyear\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Buzz Lightyear\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

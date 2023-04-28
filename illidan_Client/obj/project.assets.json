@@ -2311,11 +2311,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\.NetProjects\\illidan\\illidan_Client\\illidan_Client.csproj",
+      "projectUniqueName": "D:\\Projects\\.NetProjects\\Illidan\\illidan_Client\\illidan_Client.csproj",
       "projectName": "illidan_Client",
-      "projectPath": "D:\\Projects\\.NetProjects\\illidan\\illidan_Client\\illidan_Client.csproj",
+      "projectPath": "D:\\Projects\\.NetProjects\\Illidan\\illidan_Client\\illidan_Client.csproj",
       "packagesPath": "C:\\Users\\Buzz Lightyear\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\.NetProjects\\illidan\\illidan_Client\\obj\\",
+      "outputPath": "D:\\Projects\\.NetProjects\\Illidan\\illidan_Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2337,8 +2337,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\.NetProjects\\illidan\\illidan_Shared\\illidan_Shared.csproj": {
-              "projectPath": "D:\\Projects\\.NetProjects\\illidan\\illidan_Shared\\illidan_Shared.csproj"
+            "D:\\Projects\\.NetProjects\\Illidan\\illidan_Shared\\illidan_Shared.csproj": {
+              "projectPath": "D:\\Projects\\.NetProjects\\Illidan\\illidan_Shared\\illidan_Shared.csproj"
             }
           }
         }
