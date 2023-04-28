@@ -1,3 +1,0 @@
-obj\Release\net6.0/AuthService.cs \
-obj\Release\net6.0/AuthServiceGrpc.cs: customTypes.proto\
- authService.proto

@@ -1,3 +1,0 @@
-obj\Release\net6.0/QueueService.cs \
-obj\Release\net6.0/QueueServiceGrpc.cs: customTypes.proto\
- queueService.proto

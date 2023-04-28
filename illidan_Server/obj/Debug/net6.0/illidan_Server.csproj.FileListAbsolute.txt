@@ -1,6 +1,0 @@
-D:\Projects\.NetProjects\illidan_Server\obj\Debug\net6.0\illidan_Server.csproj.AssemblyReference.cache
-D:\Projects\.NetProjects\illidan_Server\obj\Debug\net6.0\illidan_Server.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projects\.NetProjects\illidan_Server\obj\Debug\net6.0\illidan_Server.AssemblyInfoInputs.cache
-D:\Projects\.NetProjects\illidan_Server\obj\Debug\net6.0\illidan_Server.AssemblyInfo.cs
-D:\Projects\.NetProjects\illidan_Server\obj\Debug\net6.0\illidan_Server.csproj.CoreCompileInputs.cache
-D:\Projects\.NetProjects\illidan_Server\obj\Debug\net6.0\illidan_Server.MvcApplicationPartsAssemblyInfo.cache
