@@ -1,5 +1,5 @@
 # illidan
 
 ```mermaid
-	graph A --> B[Betta]
+graph A --> B[Betta]
 ```
