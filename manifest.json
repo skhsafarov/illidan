@@ -1,0 +1,26 @@
+{
+  "name": "illidan",
+  "short_name": "illidan",
+  "start_url": "/illidan",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a1c18",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/illidan/images/icon-750.png",
+      "type": "image/png",
+      "sizes": "750x750"
+    },
+    {
+      "src": "/illidan/images/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/illidan/images/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
