@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "illidan": {
+    "illidan_Client": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
