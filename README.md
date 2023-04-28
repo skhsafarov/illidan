@@ -1,6 +1,6 @@
 # illidan
 
-```mmd
+``` mermaid
 graph
 A([Alpha]) --> B([Betta])
 ```
