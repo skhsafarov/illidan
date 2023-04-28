@@ -35,19 +35,9 @@ namespace illidan_Server
 
             var app = builder.Build();
 
-
-            // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseWebAssemblyDebugging();
-            }
-            else
-            {
-                app.UseExceptionHandler("/Error");
-                app.UseHsts();
-            }
-
-            app.UseBlazorFrameworkFiles();
+            app.UseExceptionHandler("/Error");
+            app.UseHsts();
+            //app.UseBlazorFrameworkFiles();
             app.UseStaticFiles();
 
             app.UseRouting();

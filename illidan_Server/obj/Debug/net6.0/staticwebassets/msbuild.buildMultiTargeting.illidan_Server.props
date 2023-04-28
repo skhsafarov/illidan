@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\illidan_Server.props" />
+</Project>

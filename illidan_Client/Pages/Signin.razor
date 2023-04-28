@@ -1,6 +1,8 @@
 ﻿@page "/signin"
 
-@using Microsoft.AspNetCore.Components.Forms;
-@using System.ComponentModel.DataAnnotations;
-@inject NavigationManager NavigationManager;
-@inject AuthService.AuthServiceBase AuthService;
+
+
+@for (int i = 0; i < 80; i++)
+{
+    <img class="img-col" style="background-color: var(--color@( ((i % 11) + 1).ToString() ))" src="/images/queue images/image@((i+1).ToString()).png" />
+}

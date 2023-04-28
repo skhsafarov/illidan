@@ -10,8 +10,8 @@ namespace illidan_Server.Services
         public DataContext(IConfiguration configuration)
         {
             configuration_ = configuration;
-            //Database.EnsureDeleted();
-            //Database.EnsureCreated();
+            Database.EnsureDeleted();
+            Database.EnsureCreated();
         }
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
@@ -20,7 +20,7 @@ namespace illidan_Server.Services
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<User>().Property(x => x.Role).HasDefaultValue("User");
+            //modelBuilder.Entity<User>().Property(x => x.Role).HasDefaultValue("User");
 
             //Users.AddRange(
             //    new User("Sardor", "Safarov", "+79773864255", "admin"),
@@ -30,6 +30,8 @@ namespace illidan_Server.Services
         }
 
         public DbSet<User> Users { get; set; }
-        public DbSet<QueueToken> Queues { get; set; }
+        public DbSet<Bid> Bids { get; set; }
+        public DbSet<Queue> Queues { get; set; }
+        public DbSet<QueueToken> QueueTokens { get; set; }
     }
 }

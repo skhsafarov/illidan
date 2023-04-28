@@ -69,7 +69,9 @@ namespace illidan_Server.Services
             {
                 new Claim("Id", user.Id.ToString()),
                 new Claim("FirstName", user.FirstName),
-                new Claim("Role", user.Role)
+                new Claim("LastName", user.LastName ?? ""),
+                new Claim("Role", user.Role),
+                new Claim("Phone", user.Phone),
             };
             var key = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("super secret key"));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);

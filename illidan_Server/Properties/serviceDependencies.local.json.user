@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "postgresql1": {
+      "restored": true,
+      "restoreTime": "2023-04-28T20:26:44.9279445Z"
+    },
+    "identityapp1": {
+      "restored": true,
+      "restoreTime": "2023-04-28T20:26:38.9086061Z"
+    }
+  },
+  "parameters": {}
+}

@@ -55,7 +55,7 @@
             },
             "Blazored.SessionStorage": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[2.3.0, )"
             },
             "Blazored.Toast": {
               "target": "Package",
@@ -160,33 +160,33 @@
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[12.0.0, )"
+              "version": "[12.0.1, )"
             },
             "Grpc.AspNetCore": {
               "target": "Package",
-              "version": "[2.51.0, )"
+              "version": "[2.52.0, )"
             },
             "Grpc.AspNetCore.Web": {
               "target": "Package",
-              "version": "[2.51.0, )"
+              "version": "[2.52.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[6.0.16, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[7.0.5, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[7.0.4, )"
             }
           },
           "imports": [
