@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\.NetProjects\\Illidan\\illidan_Shared\\illidan_Shared.csproj": {}
+    "D:\\Projects\\.NetProjects\\illidan\\illidan_Shared\\illidan_Shared.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\.NetProjects\\Illidan\\illidan_Shared\\illidan_Shared.csproj": {
+    "D:\\Projects\\.NetProjects\\illidan\\illidan_Shared\\illidan_Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\.NetProjects\\Illidan\\illidan_Shared\\illidan_Shared.csproj",
+        "projectUniqueName": "D:\\Projects\\.NetProjects\\illidan\\illidan_Shared\\illidan_Shared.csproj",
         "projectName": "illidan_Shared",
-        "projectPath": "D:\\Projects\\.NetProjects\\Illidan\\illidan_Shared\\illidan_Shared.csproj",
+        "projectPath": "D:\\Projects\\.NetProjects\\illidan\\illidan_Shared\\illidan_Shared.csproj",
         "packagesPath": "C:\\Users\\Buzz Lightyear\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\.NetProjects\\Illidan\\illidan_Shared\\obj\\",
+        "outputPath": "D:\\Projects\\.NetProjects\\illidan\\illidan_Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

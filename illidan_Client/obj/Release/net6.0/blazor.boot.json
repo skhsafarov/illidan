@@ -206,14 +206,14 @@
       "netstandard.dll": "sha256-yWufW5W4SSfjocBcWTEDqnFwTd\/VYtLMc2Y9mPmlggc=",
       "System.Private.CoreLib.dll": "sha256-H009wzPwRoDZlwvpN4KLCsUwN7Y1AmjKB3PIEHA7ObQ=",
       "illidan_Shared.dll": "sha256-weGoh1qddy+zngttfs\/p8lZLvGpi4L0ZZH7TzjhuISo=",
-      "illidan_Client.dll": "sha256-L6HHtQGGoX13sCDe9\/U9C0HsRyW7fNriC8BP4\/gcLw8="
+      "illidan_Client.dll": "sha256-13iOP0B5AdxB1OTKyWJECsJV2nbAs1VqWFhpX49vHws="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "illidan_Shared.pdb": "sha256-eFcakDxnM1Q+ny3kk5yY+DKQ8eOi90dL1YqpCwxZySs=",
-      "illidan_Client.pdb": "sha256-XmR9S423DUq5oYWi00t+0AQtCpuF+pZLQOjBVfQaGXE="
+      "illidan_Client.pdb": "sha256-lWQWVcH3wJ\/Vrr8iHoyQE0\/6ZEdT3rhwhz8h132BudY="
     },
     "runtime": {
       "dotnet.6.0.11.7pskgx4sdj.js": "sha256-F30V+6jU3jwJYFZoLuwMAqzTiOXu6q7zGgOdjYBofDI=",
