@@ -5,11 +5,15 @@
       "url": ".gitattributes"
     },
     {
+      "hash": "sha256-5KOgSGYgRieGpuEo8ksbvcRS8rkEvzKqCzxsQtks\/Nw=",
+      "url": ".gitignore"
+    },
+    {
       "hash": "sha256-Y3ssjahTuxgywTD3479w0H04ARkK8bjHeoNG+u47+7k=",
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-GGjgG17sYx3iaxsAvwWvQTHqFvxlXeGgWbYEl37uL\/4=",
+      "hash": "sha256-0sQF7YR0KbyyAHTe8m4EAdrZUypemLnxJWeALRYwXJM=",
       "url": "404.html"
     },
     {
@@ -481,16 +485,20 @@
       "url": "images\/Warglaive.svg"
     },
     {
-      "hash": "sha256-RO\/8mSR\/oGLZw4f144aGIlwCl7Eytxn2oNZ17tzbyCM=",
+      "hash": "sha256-sTHZzLb4MTO5qotMpAh4WKDgkqWLWQuv1lMDRP2rQss=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-nLsH8ftorCTipqPdOfi9E8QQQ0g1FxUfJnyDBmpeSWE=",
+      "hash": "sha256-4BowMeNoeAWWTPGYDVAg5UG1aN0MZuPcJ1cwqDbzt2A=",
       "url": "manifest.json"
     },
     {
+      "hash": "sha256-NPlezzhY5r1tY4Op23sd5F2LIYuYekimw+vyLyx8EHM=",
+      "url": "release.json"
+    },
+    {
       "hash": "sha256-YrDL2Re5EPK57sPmj1huESZoM1PPYCfz2UY\/KIQLYyQ=",
-      "url": "illidan.styles.css"
+      "url": "illidan_Client.styles.css"
     },
     {
       "hash": "sha256-Jq\/dS58mO5wtL2d0x\/FeAdDZ1bUTpTzPODJpBZUre\/4=",
@@ -1253,7 +1261,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-F30V+6jU3jwJYFZoLuwMAqzTiOXu6q7zGgOdjYBofDI=",
+      "hash": "sha256-HhmIRaEAYx3PfR62C4YNREPYVe4xFHj\/j4uQfwWX\/2M=",
       "url": "_framework\/dotnet.6.0.11.7pskgx4sdj.js"
     },
     {
@@ -1281,21 +1289,69 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-MCK8mRSqu3gioXbkShvFjdjW2Jt8lHrOk8wod\/4SwBU=",
-      "url": "_framework\/illidan.dll"
-    },
-    {
-      "hash": "sha256-5wRgGMZsTifFcV+o8d4e9pl\/I5ZUHPGljMgl77tzHp8=",
-      "url": "_framework\/illidan.pdb"
-    },
-    {
       "hash": "sha256-xbodEx8SfFjQwcIT9kTWPiIKFbpZEXVvF1mQEx0KlPU=",
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-Ts30tJgdy\/cJTET\/d4kG9NDXSEDqauCCJqvZzuFeP44=",
+      "hash": "sha256-Rm5zhi0\/1eG3Mr88xk+3SUwmG6H4EQv04mu\/1KeKq7g=",
       "url": "_framework\/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-XkZNIC6OGMeHZDbBGnhfc9yXdLIvGa8LlKDd4ZPWkS8=",
+      "url": "_framework\/Blazored.SessionStorage.dll"
+    },
+    {
+      "hash": "sha256-6cGnZ9WDP6hzM+ZRdvG+94hYjOke+bTjbJ5Xyawsp0M=",
+      "url": "_framework\/Blazored.Toast.dll"
+    },
+    {
+      "hash": "sha256-\/7TpsgTcmjTm\/sdGiS0x7+za2UvcY7ffciOXti9Q5yM=",
+      "url": "_framework\/Google.Protobuf.dll"
+    },
+    {
+      "hash": "sha256-E7hbT9qEfe+86SyJCdOQy\/TuUpHLPsCgIdHm1roBzK4=",
+      "url": "_framework\/Grpc.Core.Api.dll"
+    },
+    {
+      "hash": "sha256-uWP9joZhpjB1Fz7fgDsDVyChSufSwf0G1\/vR4ky4TfU=",
+      "url": "_framework\/Grpc.Net.Client.dll"
+    },
+    {
+      "hash": "sha256-B51qTbzvPo2sOleE9NFP3xByg4enbaVZisPRAtZfx8k=",
+      "url": "_framework\/Grpc.Net.Client.Web.dll"
+    },
+    {
+      "hash": "sha256-w9PLPmopIt1iy2C+SaGmS+SE3sbv69hz5IWzsSWhO2U=",
+      "url": "_framework\/Grpc.Net.Common.dll"
+    },
+    {
+      "hash": "sha256-9+8\/yERgTpi3ZfI6AAGlVvAMp+l67mW6GLhfzVwz7KY=",
+      "url": "_framework\/Microsoft.AspNetCore.Components.Authorization.dll"
+    },
+    {
+      "hash": "sha256-weGoh1qddy+zngttfs\/p8lZLvGpi4L0ZZH7TzjhuISo=",
+      "url": "_framework\/illidan_Shared.dll"
+    },
+    {
+      "hash": "sha256-eFcakDxnM1Q+ny3kk5yY+DKQ8eOi90dL1YqpCwxZySs=",
+      "url": "_framework\/illidan_Shared.pdb"
+    },
+    {
+      "hash": "sha256-HLRhmIAW5Pc5T2LqMNPzqwng2JP++WI+lQAZrOei+P0=",
+      "url": "_framework\/illidan_Client.dll"
+    },
+    {
+      "hash": "sha256-v9JN1cGZbpr4de+mjcAr78+\/FFalizAZQRlph4alqnA=",
+      "url": "_framework\/illidan_Client.pdb"
+    },
+    {
+      "hash": "sha256-AaWqqM899f6WZE0W2NdQciewuA0QMpyAwixyqepNlDI=",
+      "url": "_content\/Blazored.Toast\/blazored-toast.css"
+    },
+    {
+      "hash": "sha256-EbeajiYBLaYVsWOJMs3fTyHck3SxwIPI6+PLFW0vMpM=",
+      "url": "_content\/Blazored.Toast\/blazored-toast.min.css"
     }
   ],
-  "version": "iOnsC6bj"
+  "version": "G8nEUWAP"
 };

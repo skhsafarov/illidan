@@ -6,8 +6,9 @@ git push
 
 # удалить в папке ".published/illidan/" все файлы и папки, кроме папки ".git"
 Remove-Item -Path .published/illidan/* -Exclude .git -Recurse -Force
+cd illidan_Client
+dotnet publish -c Release -o ../.published/illidan
 
-dotnet publish -c Release -o .published/illidan
 
 # cd .published/illidan
 # git checkout gh-pages

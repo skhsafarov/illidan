@@ -2,14 +2,22 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": true,
-  "entryAssembly": "illidan",
+  "entryAssembly": "illidan_Client",
   "icuDataMode": 0,
   "linkerEnabled": false,
   "resources": {
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-Jq\/dS58mO5wtL2d0x\/FeAdDZ1bUTpTzPODJpBZUre\/4=",
+      "Blazored.SessionStorage.dll": "sha256-XkZNIC6OGMeHZDbBGnhfc9yXdLIvGa8LlKDd4ZPWkS8=",
+      "Blazored.Toast.dll": "sha256-6cGnZ9WDP6hzM+ZRdvG+94hYjOke+bTjbJ5Xyawsp0M=",
+      "Google.Protobuf.dll": "sha256-\/7TpsgTcmjTm\/sdGiS0x7+za2UvcY7ffciOXti9Q5yM=",
+      "Grpc.Core.Api.dll": "sha256-E7hbT9qEfe+86SyJCdOQy\/TuUpHLPsCgIdHm1roBzK4=",
+      "Grpc.Net.Client.dll": "sha256-uWP9joZhpjB1Fz7fgDsDVyChSufSwf0G1\/vR4ky4TfU=",
+      "Grpc.Net.Client.Web.dll": "sha256-B51qTbzvPo2sOleE9NFP3xByg4enbaVZisPRAtZfx8k=",
+      "Grpc.Net.Common.dll": "sha256-w9PLPmopIt1iy2C+SaGmS+SE3sbv69hz5IWzsSWhO2U=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-gbA+AujHUUBawZgIGQVo3vLdHlkaD7QLRM0dStUecSM=",
       "Microsoft.AspNetCore.Components.dll": "sha256-+gNaJML9x0hS\/cLcBimAURDK\/S8nSWJZkTCaP5lgRys=",
+      "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-9+8\/yERgTpi3ZfI6AAGlVvAMp+l67mW6GLhfzVwz7KY=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-uEDGfx46VmVIFGVu1clYPrq64JTRcayMUjUw1cr6Zck=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-w22hRC5++AfKK8AS70s3daNJlRW\/viXntxDuPRM\/+AY=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-hLMWN1JTzfCVYXQOq6G1tEFmu+D4tn+hSbJf4nG+7K4=",
@@ -197,13 +205,15 @@
       "mscorlib.dll": "sha256-cx\/3nJhFns3tZhQNQOyiRyKJESKxOjLVufzWnri6KSA=",
       "netstandard.dll": "sha256-yWufW5W4SSfjocBcWTEDqnFwTd\/VYtLMc2Y9mPmlggc=",
       "System.Private.CoreLib.dll": "sha256-H009wzPwRoDZlwvpN4KLCsUwN7Y1AmjKB3PIEHA7ObQ=",
-      "illidan.dll": "sha256-Hns6aRTWrDISpL4OtymRA\/4ml4sZXW\/HxwjSBt847Ro="
+      "illidan_Shared.dll": "sha256-weGoh1qddy+zngttfs\/p8lZLvGpi4L0ZZH7TzjhuISo=",
+      "illidan_Client.dll": "sha256-HLRhmIAW5Pc5T2LqMNPzqwng2JP++WI+lQAZrOei+P0="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "illidan.pdb": "sha256-fmhfzI7\/mF65xymp1egi467kpXfH4lI18IcCxp5kIWo="
+      "illidan_Shared.pdb": "sha256-eFcakDxnM1Q+ny3kk5yY+DKQ8eOi90dL1YqpCwxZySs=",
+      "illidan_Client.pdb": "sha256-v9JN1cGZbpr4de+mjcAr78+\/FFalizAZQRlph4alqnA="
     },
     "runtime": {
       "dotnet.6.0.11.7pskgx4sdj.js": "sha256-F30V+6jU3jwJYFZoLuwMAqzTiOXu6q7zGgOdjYBofDI=",
