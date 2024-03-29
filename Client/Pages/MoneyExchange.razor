@@ -1,0 +1,56 @@
+﻿@page "/money_exchange"
+@layout ArticleLayout
+
+<AuthorizeView>
+    <Authorized>
+        <Table>
+            <table>
+                <thead>
+                    <tr>
+                        <th>У него есть</th>
+                        <th>Ему нужно</th>
+                        <th>Курс</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1,00</td>
+                        <td>12 990,00</td>
+                        <td rowspan="2">+13,59%  12990,0000</td>
+                    </tr>
+                    <tr>
+                        <td>3,00</td>
+                        <td>39 000,00</td>
+                    </tr>
+                    <tr>
+                        <td>10,24</td>
+                        <td>135 157,76</td>
+                        <td>+15,42%  13199,0000</td>
+                    </tr>
+                    <tr>
+                        <td>1,00</td>
+                        <td>12 990,00</td>
+                        <td rowspan="2">+13,59%  12990,0000</td>
+                    </tr>
+                    <tr>
+                        <td>3,00</td>
+                        <td>39 000,00</td>
+                    </tr>
+                    <tr>
+                        <td>10,24</td>
+                        <td>135 157,76</td>
+                        <td>+15,42%  13199,0000</td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </Table>
+    </Authorized>
+    <NotAuthorized>
+        <RedirectToSignin />
+    </NotAuthorized>
+</AuthorizeView>
+
+@code {
+
+}

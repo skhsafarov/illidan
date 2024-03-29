@@ -1,0 +1,99 @@
+﻿@page "/signin"
+@page "/signin/{action}"
+
+@inject AuthService.AuthServiceClient AuthService
+@inject NavigationManager NavigationManager
+@inject AuthenticationStateProvider AuthStateProvider
+
+
+<div class="component-scope">
+    <AuthorizeView>
+        <Authorized>
+            <h2>
+                Вы авторизованы!
+            </h2>
+        </Authorized>
+        <NotAuthorized>
+            <div class="signin-form">
+                <header>
+                    <h2>Sign In</h2>
+                </header>
+                @if (isFilledIn)
+                {
+                    <div>
+                        <input type="number" @bind-value=code placeholder="Code" id="code" name="code" />
+                        <button type="button" @onclick="VerifyCode">Verify</button>
+                    </div>
+                }
+                else
+                {
+                    <div>
+                        <input type="tel" @bind-value:event="oninput" @bind-value=Phone placeholder="Phone number" id="phone" name="phone" />
+                        <button type="button" @onclick="SendCode">Next</button>
+                    </div>
+                }
+            </div>
+        </NotAuthorized>
+    </AuthorizeView>
+</div>
+
+
+@code {
+    private string phone;
+    public string Phone
+    {
+        get
+        {
+            return phone;
+        }
+        set
+        {
+            if (!value.StartsWith('+'))
+            {
+                phone = '+' + value;
+            }
+            else
+            {
+                phone = value;
+            }
+        }
+    }
+
+    private string code = "";
+    private bool isFilledIn;
+    [Parameter] public string? Action { get; set; }
+
+    protected override void OnInitialized()
+    {
+        if (!String.IsNullOrWhiteSpace(Phone))
+        {
+            isFilledIn = true;
+        }
+    }
+
+    private async Task SendCode()
+    {
+        if (!String.IsNullOrWhiteSpace(Phone))
+        {
+            var responce = await AuthService.SendCodeAsync(new SendCodeRequest { Phone = Phone });
+            if (responce.Success)
+            {
+                isFilledIn = true;
+            }
+        }
+    }
+
+    private async Task VerifyCode()
+    {
+        var response = await AuthService.ValidateAsync(new ValidateRequest { Phone = Phone, Code = code });
+        if (response.AccessToken != null)
+        {
+            await ((CustomAuthStateProvider)AuthStateProvider).MarkUserAsAuthenticated(response.AccessToken);
+            Phone = "";
+            if (!String.IsNullOrWhiteSpace(Action))
+            {
+                NavigationManager.NavigateTo(Action);
+            }
+        }
+    }
+}

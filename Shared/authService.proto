@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+package auth;
+
+import "customTypes.proto";
+
+option csharp_namespace = "Shared";
+
+service AuthService {
+	rpc SendCode (SendCodeRequest) returns (customTypes.StandartReply);
+	rpc Validate (ValidateRequest) returns (ValidateReply);
+}
+
+message SendCodeRequest {
+	string Phone = 1;
+}
+
+message ValidateRequest{
+	string Phone = 1;
+	string Code = 2;
+}
+
+message ValidateReply{
+	bool Success = 1;
+	string Message = 2;
+	string AccessToken = 3;
+}

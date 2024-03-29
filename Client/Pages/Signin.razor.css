@@ -1,0 +1,101 @@
+﻿.component-scope {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.signin-form {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    color: var(--theme-color-on-surface);
+    background: var(--theme-color-surface-1);
+    border-radius: 24px;
+    width: 90%;
+    justify-self: center
+}
+
+    .signin-form div, .signin-form header {
+        display: grid;
+        gap: 24px;
+        margin: 24px;
+        justify-items: end
+    }
+
+input, button, select {
+    display: block;
+    padding: 2px 16px;
+    height: 48px;
+    transition: background-color .3s cubic-bezier(.2,0,0,1);
+    border: 2px solid transparent;
+    border-radius: 27.5px;
+    outline: 1px solid var(--theme-color-utility-outline);
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    overflow: hidden;
+    align-items: center;
+    font-size: 24px;
+}
+
+button {
+    font-family: var(--theme-v2-headline-s-font-family);
+    font-size: var(--theme-v2-headline-s-font-size);
+    font-weight: var(--theme-v2-headline-s-font-weight);
+    letter-spacing: var(--theme-v2-headline-s-letter-spacing);
+    line-height: var(--theme-v2-headline-s-line-height);
+    font-variation-settings: "GRAD" var(--theme-v2-headline-s-font-variation-GRAD), "opsz" var(--theme-v2-headline-s-font-variation-opsz);
+    position: relative;
+    height: 60px;
+    padding: 0 48px;
+    transition: all 200ms cubic-bezier(0.2, 0, 0, 1);
+    border: 0;
+    border-radius: 48px;
+    background-color: var(--theme-color-primary);
+    color: var(--theme-color-on-primary);
+    white-space: nowrap;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    overflow: hidden;
+}
+
+button {
+    font-family: var(--theme-v2-headline-s-font-family);
+    font-size: var(--theme-v2-headline-s-font-size);
+    font-weight: var(--theme-v2-headline-s-font-weight);
+    letter-spacing: var(--theme-v2-headline-s-letter-spacing);
+    line-height: var(--theme-v2-headline-s-line-height);
+    font-variation-settings: "GRAD" var(--theme-v2-headline-s-font-variation-GRAD), "opsz" var(--theme-v2-headline-s-font-variation-opsz);
+}
+
+    button:active {
+        transition-duration: 0.1s;
+        border-radius: 10px;
+    }
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+input {
+    width: -webkit-fill-available;
+}
+
+
+@media screen and (max-width:960px) {
+    .component-scope {
+        height: calc(100vh - 64px);
+    }
+}

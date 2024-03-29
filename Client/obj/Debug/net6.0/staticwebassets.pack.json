@@ -1,0 +1,865 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\obj\\Debug\\net6.0\\compressed\\hbmthrh8oy.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Client.styles.css",
+      "PackagePath": "staticwebassets\\Client.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\obj\\Debug\\net6.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\obj\\Debug\\net6.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\.gitattributes",
+      "PackagePath": "staticwebassets\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\.gitignore",
+      "PackagePath": "staticwebassets\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\.nojekyll",
+      "PackagePath": "staticwebassets\\.nojekyll"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\404.html",
+      "PackagePath": "staticwebassets\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\css\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Bwp5eKQtGBlc.woff2",
+      "PackagePath": "staticwebassets\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Bwp5eKQtGBlc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Hwp5eKQtGBlc.woff2",
+      "PackagePath": "staticwebassets\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Hwp5eKQtGBlc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Kwp5eKQtGBlc.woff2",
+      "PackagePath": "staticwebassets\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Kwp5eKQtGBlc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Mwp5eKQtGBlc.woff2",
+      "PackagePath": "staticwebassets\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Mwp5eKQtGBlc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Nwp5eKQtGBlc.woff2",
+      "PackagePath": "staticwebassets\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Nwp5eKQtGBlc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Owp5eKQtG.woff2",
+      "PackagePath": "staticwebassets\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Owp5eKQtG.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Pwp5eKQtGBlc.woff2",
+      "PackagePath": "staticwebassets\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Pwp5eKQtGBlc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Rwp5eKQtGBlc.woff2",
+      "PackagePath": "staticwebassets\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Rwp5eKQtGBlc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Ywp5eKQtGBlc.woff2",
+      "PackagePath": "staticwebassets\\fonts\\4UaGrENHsxJlGDuGo1OIlL3Ywp5eKQtGBlc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4UaGrENHsxJlGDuGo1OIlL3awp5eKQtGBlc.woff2",
+      "PackagePath": "staticwebassets\\fonts\\4UaGrENHsxJlGDuGo1OIlL3awp5eKQtGBlc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4UaGrENHsxJlGDuGo1OIlL3ewp5eKQtGBlc.woff2",
+      "PackagePath": "staticwebassets\\fonts\\4UaGrENHsxJlGDuGo1OIlL3ewp5eKQtGBlc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4UaGrENHsxJlGDuGo1OIlL3twp5eKQtGBlc.woff2",
+      "PackagePath": "staticwebassets\\fonts\\4UaGrENHsxJlGDuGo1OIlL3twp5eKQtGBlc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhWdRFD48TE63OOYKtrw2IKlh.woff",
+      "PackagePath": "staticwebassets\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhWdRFD48TE63OOYKtrw2IKlh.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhWdRFD48TE63OOYKtrwEIKlh.woff",
+      "PackagePath": "staticwebassets\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhWdRFD48TE63OOYKtrwEIKlh.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhWdRFD48TE63OOYKtrzaJ6lh.woff",
+      "PackagePath": "staticwebassets\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhWdRFD48TE63OOYKtrzaJ6lh.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhWdRFD48TE63OOYKtrzjJ6lh.woff",
+      "PackagePath": "staticwebassets\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhWdRFD48TE63OOYKtrzjJ6lh.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IKlh.woff",
+      "PackagePath": "staticwebassets\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IKlh.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIKlh.woff",
+      "PackagePath": "staticwebassets\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIKlh.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzaJ6lh.woff",
+      "PackagePath": "staticwebassets\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzaJ6lh.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ6lh.woff",
+      "PackagePath": "staticwebassets\\fonts\\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ6lh.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmZjtjm4DZzFQQ.woff2",
+      "PackagePath": "staticwebassets\\fonts\\5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmZjtjm4DZzFQQ.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmdjtjm4DZzFQQ.woff2",
+      "PackagePath": "staticwebassets\\fonts\\5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmdjtjm4DZzFQQ.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmhjtjm4DZw.woff2",
+      "PackagePath": "staticwebassets\\fonts\\5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmhjtjm4DZw.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmtjtjm4DZzFQQ.woff2",
+      "PackagePath": "staticwebassets\\fonts\\5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmtjtjm4DZzFQQ.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmxjtjm4DZzFQQ.woff2",
+      "PackagePath": "staticwebassets\\fonts\\5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmxjtjm4DZzFQQ.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVrmw.woff",
+      "PackagePath": "staticwebassets\\fonts\\5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVrmw.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\5aUu9-KzpRiLCAt4Unrc-xIKmCU5mE4.woff",
+      "PackagePath": "staticwebassets\\fonts\\5aUu9-KzpRiLCAt4Unrc-xIKmCU5mE4.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\5aUu9-KzpRiLCAt4Unrc-xIKmCU5qE52i0VBuxOCBA.woff2",
+      "PackagePath": "staticwebassets\\fonts\\5aUu9-KzpRiLCAt4Unrc-xIKmCU5qE52i0VBuxOCBA.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\5aUu9-KzpRiLCAt4Unrc-xIKmCU5qER2i0VBuxOCBA.woff2",
+      "PackagePath": "staticwebassets\\fonts\\5aUu9-KzpRiLCAt4Unrc-xIKmCU5qER2i0VBuxOCBA.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEV2i0VBuxOCBA.woff2",
+      "PackagePath": "staticwebassets\\fonts\\5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEV2i0VBuxOCBA.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEl2i0VBuxOCBA.woff2",
+      "PackagePath": "staticwebassets\\fonts\\5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEl2i0VBuxOCBA.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEp2i0VBuxM.woff2",
+      "PackagePath": "staticwebassets\\fonts\\5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEp2i0VBuxM.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG2w.woff",
+      "PackagePath": "staticwebassets\\fonts\\Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG2w.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Sy7X00.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Sy7X00.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhyNU5Ak9u-oMExPeInvcuEmPpEM1fI93A.woff2",
+      "PackagePath": "staticwebassets\\fonts\\HhyNU5Ak9u-oMExPeInvcuEmPpEM1fI93A.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3G8taXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3G8taXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3G8teXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3G8teXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GFdGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GFdGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GLNGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GLNGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GctaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GctaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GrNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GrNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GwNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GwNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3G8taXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3G8taXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3G8teXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3G8teXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GFdGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GFdGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GLNGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GLNGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GctaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GctaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GrNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GrNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GwNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GwNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3G8taXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3G8taXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3G8teXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3G8teXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GFdGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GFdGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GLNGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GLNGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GctaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GctaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GrNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GrNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GwNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GwNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3G8taXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3G8taXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3G8teXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3G8teXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GFdGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GFdGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GLNGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GLNGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GctaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GctaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GrNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GrNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GwNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GwNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3G8taXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3G8taXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3G8teXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3G8teXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GFdGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GFdGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GLNGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GLNGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GctaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GctaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GrNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GrNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GwNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GwNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3G8taXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3G8taXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3G8teXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3G8teXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GFdGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GFdGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GLNGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GLNGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GctaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GctaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GrNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GrNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GwNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnsvCPar1J9g0sLBUv3GwNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3G8taXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3G8taXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3G8teXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3G8teXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GFdGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GFdGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GLNGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GLNGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GctaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GctaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GrNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GrNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GwNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnt_CPar1J9g0sLBUv3GwNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3G8taXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3G8taXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3G8teXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3G8teXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GFdGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GFdGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GLNGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GLNGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GctaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GctaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GrNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GrNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GwNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnufC_ar1J9g0sLBUv3GwNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3G8taXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3G8taXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3G8teXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3G8teXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GFdGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GFdGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GLNGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GLNGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GctaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GctaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GrNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GrNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GwNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3GwNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3G8taXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3G8taXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3G8teXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3G8teXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GFdGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GFdGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GLNGXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GLNGXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GctaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GctaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GrNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GrNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GwNaXng.woff",
+      "PackagePath": "staticwebassets\\fonts\\HhzZU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cvofdKM1XLPTxlGmzczpgWvF1SbxVhQidBnvfC_ar1J9g0sLBUv3GwNaXng.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\P5sUzYWFYtnZ_Cg-t0Uq_rfivrdYH4RE8-pZ5gQ1abT53wVQGr-VZS26DMA.woff",
+      "PackagePath": "staticwebassets\\fonts\\P5sUzYWFYtnZ_Cg-t0Uq_rfivrdYH4RE8-pZ5gQ1abT53wVQGr-VZS26DMA.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\P5sUzYWFYtnZ_Cg-t0Uq_rfivrdYH4RE8-pZ5gQ1abT53zVU.woff",
+      "PackagePath": "staticwebassets\\fonts\\P5sUzYWFYtnZ_Cg-t0Uq_rfivrdYH4RE8-pZ5gQ1abT53zVU.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\flUhRq6tzZclQEJ-Vdg-IuiaDsNa.woff",
+      "PackagePath": "staticwebassets\\fonts\\flUhRq6tzZclQEJ-Vdg-IuiaDsNa.woff"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\fonts\\flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\Warglaive.psd",
+      "PackagePath": "staticwebassets\\images\\Warglaive.psd"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\Warglaive.svg",
+      "PackagePath": "staticwebassets\\images\\Warglaive.svg"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal0.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal0.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal1.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal1.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal10.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal10.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal11.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal11.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal12.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal12.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal13.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal13.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal14.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal14.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal15.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal15.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal16.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal16.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal17.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal17.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal18.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal18.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal19.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal19.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal2.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal2.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal20.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal20.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal21.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal21.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal22.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal22.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal23.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal23.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal24.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal24.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal25.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal25.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal26.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal26.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal27.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal27.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal28.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal28.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal29.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal29.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal3.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal3.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal30.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal30.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal31.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal31.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal32.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal32.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal33.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal33.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal34.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal34.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal35.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal35.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal36.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal36.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal37.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal37.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal38.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal38.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal39.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal39.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal4.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal4.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal40.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal40.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal41.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal41.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal42.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal42.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal43.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal43.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal44.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal44.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal45.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal45.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal46.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal46.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal47.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal47.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal48.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal48.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal49.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal49.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal5.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal5.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal50.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal50.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal51.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal51.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal52.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal52.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal53.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal53.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal54.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal54.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal55.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal55.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal56.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal56.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal57.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal57.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal58.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal58.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal59.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal59.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal6.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal6.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal60.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal60.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal61.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal61.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal62.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal62.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal63.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal63.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal64.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal64.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal65.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal65.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal66.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal66.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal67.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal67.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal68.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal68.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal69.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal69.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal7.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal7.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal70.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal70.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal71.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal71.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal72.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal72.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal73.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal73.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal74.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal74.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal75.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal75.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal76.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal76.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal77.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal77.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal78.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal78.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal79.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal79.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal8.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal8.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\animal9.png",
+      "PackagePath": "staticwebassets\\images\\animals\\animal9.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\animals\\sc.ps1",
+      "PackagePath": "staticwebassets\\images\\animals\\sc.ps1"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\icon-192.png",
+      "PackagePath": "staticwebassets\\images\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\icon-512.png",
+      "PackagePath": "staticwebassets\\images\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\icon-750.png",
+      "PackagePath": "staticwebassets\\images\\icon-750.png"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\images\\queue.webp",
+      "PackagePath": "staticwebassets\\images\\queue.webp"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\wwwroot\\release.json",
+      "PackagePath": "staticwebassets\\release.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Client.props",
+      "PackagePath": "build\\Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Client.props",
+      "PackagePath": "buildMultiTargeting\\Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Client.props",
+      "PackagePath": "buildTransitive\\Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

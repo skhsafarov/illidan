@@ -1,0 +1,40 @@
+﻿<div class="card" size=@Size>
+    <a class="thumbnail" href=@Href target="_self">
+        <div class="content-container">
+            <span class="title">
+                @Title
+            </span>
+            <span class="description">
+                @Description
+            </span>
+        </div>
+        @if (Image != null)
+        {
+            <div class="thumb-container " style=@Image>
+            </div>
+        }
+        <div class="ripple" style="display: block;">
+        </div>
+    </a>
+</div>
+
+@code {
+    private string? _image;
+    [Parameter] public string? Href { get; set; }
+    [Parameter]
+    public string? Image
+    {
+        get
+        {
+            return _image;
+        }
+        set
+        {
+            _image = $"background-image: url(\"{value}\");";
+        }
+    }
+
+    [Parameter] public string? Size { get; set; }
+    [Parameter] public RenderFragment? Title { get; set; }
+    [Parameter] public RenderFragment? Description { get; set; }
+}

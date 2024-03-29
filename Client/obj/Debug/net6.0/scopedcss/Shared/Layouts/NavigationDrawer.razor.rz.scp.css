@@ -1,0 +1,241 @@
+.navigation-drawer[b-0zpzdvcx6v] {
+    width: 100%;
+}
+
+@media screen and (min-width: 961px) {
+    .navigation-drawer[b-0zpzdvcx6v] {
+        padding-left: 88px;
+    }
+}
+
+[b-0zpzdvcx6v] .drawer {
+    --mdc-drawer-width: 230px;
+}
+
+@media screen and (max-width: 960px) {
+    [b-0zpzdvcx6v] .drawer {
+        --mdc-drawer-width: 320px;
+    }
+}
+
+.drawer[type=dismissible] nav[b-0zpzdvcx6v] {
+    padding-top: 8px;
+}
+
+[b-0zpzdvcx6v] .drawer[type=modal] nav {
+    overflow: hidden;
+}
+
+[b-0zpzdvcx6v] .drawer[type=modal] .nav-drawer-section {
+    height: calc(100% - 80px);
+}
+
+[b-0zpzdvcx6v] .drawer[type=dismissible] nav, [b-0zpzdvcx6v] .drawer[type=modal] nav {
+    height: 100%;
+}
+
+[b-0zpzdvcx6v] .icon-button {
+    margin-bottom: 8px;
+    margin-left: 12px;
+}
+[b-0zpzdvcx6v] .top-app-bar-fixed .icon-button {
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+[b-0zpzdvcx6v] .nav-drawer-section {
+    padding-bottom: 24px;
+    overflow-y: auto;
+}
+
+@media screen and (max-width: 960px) {
+    [b-0zpzdvcx6v] .nav-drawer-section {
+        margin: 8px 0 auto;
+    }
+}
+
+[b-0zpzdvcx6v] .topic-wrapper {
+    margin: 0 8px;
+}
+
+[b-0zpzdvcx6v] .page-content {
+    display: flex;
+    flex-direction: column;
+    height: calc(var(--vh, 1vh) * 100);
+    min-height: calc(100vh - 64px);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+[b-0zpzdvcx6v] .section-title {
+    margin-bottom: 8px;
+    margin-left: 24px;
+    color: var(--theme-color-on-surface-variant);
+    font-size: var(--theme-v2-label-l-font-size);
+    font-weight: var(--theme-v2-label-l-font-weight);
+    line-height: var(--theme-v2-label-l-line-height);
+}
+
+[b-0zpzdvcx6v] .item {
+    font-family: var(--theme-v2-title-m-font-family);
+    font-size: var(--theme-v2-title-m-font-size);
+    font-weight: var(--theme-v2-title-m-font-weight);
+    letter-spacing: var(--theme-v2-title-m-letter-spacing);
+    line-height: var(--theme-v2-title-m-line-height);
+    font-variation-settings: "GRAD" var(--theme-v2-title-m-font-variation-GRAD), "opsz" var(--theme-v2-title-m-font-variation-opsz);
+    display: flex;
+    position: relative;
+    align-items: center;
+    height: 48px;
+    padding: 2px 16px;
+    border-radius: 100px;
+    color: var(--theme-color-on-surface-variant);
+    font-family: var(--theme-display-font-family);
+    text-decoration: none;
+    cursor: pointer;
+    overflow: hidden;
+    -webkit-tap-highlight-color: transparent;
+}
+
+    [b-0zpzdvcx6v] .item::before {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        transform: scaleX(0.32);
+        transition-duration: 200ms;
+        transition-property: transform, opacity;
+        transition-timing-function: linear;
+        border-radius: 100px;
+        background: var(--theme-color-secondary-container);
+        content: "";
+        z-index: -1;
+    }
+
+    [b-0zpzdvcx6v] .item:focus {
+        margin: 0;
+        border: none;
+        outline: none;
+        box-shadow: none;
+    }
+
+    [b-0zpzdvcx6v] .item:hover {
+        background: var(--theme-color-on-surface-variant-2);
+    }
+
+        [b-0zpzdvcx6v] .item:hover .label {
+            font-variation-settings: "GRAD" 50;
+        }
+
+        [b-0zpzdvcx6v] .item:hover .google-symbols {
+            font-variation-settings: "FILL" 1, "wght" 600, "opsz" 24;
+        }
+
+    [b-0zpzdvcx6v] .item:active {
+        background: var(--theme-color-on-surface-variant-4);
+    }
+
+        [b-0zpzdvcx6v] .item:active .label {
+            font-variation-settings: "GRAD" -50;
+        }
+
+        [b-0zpzdvcx6v] .item:active .google-symbols {
+            font-variation-settings: "FILL" 1, "wght" 300, "opsz" 24;
+        }
+
+    [b-0zpzdvcx6v] .item.active {
+        color: var(--theme-color-on-secondary-container);
+    }
+
+        [b-0zpzdvcx6v] .item.active::before {
+            opacity: 1;
+            transform: scaleX(1);
+        }
+
+    [b-0zpzdvcx6v] .item .section-icon {
+        margin-right: 16px;
+    }
+
+    [b-0zpzdvcx6v] .item .arrow-right-icon {
+        margin-left: auto;
+    }
+
+[b-0zpzdvcx6v] .main-menu {
+    font-family: var(--theme-v2-title-m-font-family);
+    font-size: var(--theme-v2-title-m-font-size);
+    font-weight: var(--theme-v2-title-m-font-weight);
+    letter-spacing: var(--theme-v2-title-m-letter-spacing);
+    line-height: var(--theme-v2-title-m-line-height);
+    font-variation-settings: "GRAD" var(--theme-v2-title-m-font-variation-GRAD), "opsz" var(--theme-v2-title-m-font-variation-opsz);
+    display: flex;
+    position: relative;
+    align-items: center;
+    height: 48px;
+    padding: 0 16px;
+    border-radius: 100px;
+    color: var(--theme-color-on-surface-variant);
+    font-family: var(--theme-display-font-family);
+    cursor: pointer;
+    overflow: hidden;
+    -webkit-tap-highlight-color: transparent;
+}
+
+    [b-0zpzdvcx6v] .main-menu:hover {
+        background: var(--theme-color-on-surface-variant-2);
+        color: var(--theme-color-on-surface);
+    }
+
+        [b-0zpzdvcx6v] .main-menu:hover .label {
+            font-variation-settings: "GRAD" 50;
+        }
+
+        [b-0zpzdvcx6v] .main-menu:hover .google-symbols {
+            font-variation-settings: "wght" 600, "opsz" 24;
+        }
+
+    [b-0zpzdvcx6v] .main-menu:active {
+        background: var(--theme-color-on-surface-variant-4);
+        color: var(--theme-color-on-surface);
+    }
+
+        [b-0zpzdvcx6v] .main-menu:active .label {
+            font-variation-settings: "GRAD" -50;
+        }
+
+        [b-0zpzdvcx6v] .main-menu:active .google-symbols {
+            font-variation-settings: "wght" 300, "opsz" 24;
+        }
+
+    [b-0zpzdvcx6v] .main-menu .arrow-back-icon {
+        margin-right: 16px;
+    }
+
+.google-symbols[b-0zpzdvcx6v] {
+    font-variation-settings: "wght" 400, "opsz" 24;
+    transition: font-variation-settings 200ms cubic-bezier(0.2, 0, 0, 1);
+}
+
+[b-0zpzdvcx6v] .label {
+    font-variation-settings: "GRAD" 0;
+    transition: font-variation-settings 200ms cubic-bezier(0.2, 0, 0, 1);
+}
+
+[b-0zpzdvcx6v] .main-menu:focus-visible, [b-0zpzdvcx6v] .item:focus-visible {
+    margin: 0 -2px;
+    border: 2px solid var(--theme-color-on-surface);
+    border-radius: 24px;
+    outline: 0;
+    box-shadow: inset 0 0 0 2px var(--theme-color-surface-0);
+}
+
+[b-0zpzdvcx6v] .dark-mode-switch-container {
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 80px;
+}

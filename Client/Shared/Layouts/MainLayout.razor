@@ -1,0 +1,23 @@
+﻿@inherits LayoutComponentBase
+@inject ILocalStorageService LS
+
+<div class="root green @IsDark">
+    <div class="navigation ">
+        <LeftNavRail SwitchClick="@(()=>isDark=!isDark)" />
+        <NavigationDrawer>
+            <Drawer SwitchClick="@(()=>isDark=!isDark)">
+                @Body
+            </Drawer>
+        </NavigationDrawer>
+    </div>
+</div>
+
+@code {
+    private bool isDark;
+    public string IsDark => isDark ? "dark-mode" : String.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        isDark = await LS.GetItemAsync<bool>("dark mode");
+    }
+}

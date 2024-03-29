@@ -1,0 +1,15 @@
+D:\Projects\.NetProjects\Illidan\Script\bin\Debug\net6.0\Script.exe
+D:\Projects\.NetProjects\Illidan\Script\bin\Debug\net6.0\Script.deps.json
+D:\Projects\.NetProjects\Illidan\Script\bin\Debug\net6.0\Script.runtimeconfig.json
+D:\Projects\.NetProjects\Illidan\Script\bin\Debug\net6.0\Script.dll
+D:\Projects\.NetProjects\Illidan\Script\bin\Debug\net6.0\Script.pdb
+D:\Projects\.NetProjects\Illidan\Script\obj\Debug\net6.0\Script.csproj.AssemblyReference.cache
+D:\Projects\.NetProjects\Illidan\Script\obj\Debug\net6.0\Script.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.NetProjects\Illidan\Script\obj\Debug\net6.0\Script.AssemblyInfoInputs.cache
+D:\Projects\.NetProjects\Illidan\Script\obj\Debug\net6.0\Script.AssemblyInfo.cs
+D:\Projects\.NetProjects\Illidan\Script\obj\Debug\net6.0\Script.csproj.CoreCompileInputs.cache
+D:\Projects\.NetProjects\Illidan\Script\obj\Debug\net6.0\Script.dll
+D:\Projects\.NetProjects\Illidan\Script\obj\Debug\net6.0\refint\Script.dll
+D:\Projects\.NetProjects\Illidan\Script\obj\Debug\net6.0\Script.pdb
+D:\Projects\.NetProjects\Illidan\Script\obj\Debug\net6.0\Script.genruntimeconfig.cache
+D:\Projects\.NetProjects\Illidan\Script\obj\Debug\net6.0\ref\Script.dll

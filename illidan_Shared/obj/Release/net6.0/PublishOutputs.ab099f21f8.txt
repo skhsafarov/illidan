@@ -1,8 +1,0 @@
-D:\Projects\.NetProjects\illidan\.published\illidan\illidan_Shared.dll
-D:\Projects\.NetProjects\illidan\.published\illidan\illidan_Shared.pdb
-D:\Projects\.NetProjects\illidan\.published\illidan\Google.Protobuf.dll
-D:\Projects\.NetProjects\illidan\.published\illidan\Grpc.Core.Api.dll
-D:\Projects\.NetProjects\illidan\.published\illidan\Grpc.Net.Client.dll
-D:\Projects\.NetProjects\illidan\.published\illidan\Grpc.Net.Common.dll
-D:\Projects\.NetProjects\illidan\.published\illidan\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Projects\.NetProjects\illidan\.published\illidan\illidan_Shared.deps.json

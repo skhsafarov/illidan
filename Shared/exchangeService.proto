@@ -1,0 +1,44 @@
+syntax = "proto3";
+
+package exchange;
+
+import "google/protobuf/timestamp.proto";
+import "customTypes.proto";
+
+option csharp_namespace = "Shared";
+
+service ExchangeService {
+	rpc GetBids(customTypes.Empty) returns (GetBidsReply);
+	rpc CreateBid(CreateBidRequest) returns (customTypes.StandartReply);
+	rpc Exchange (ExchangeRequest) returns (customTypes.StandartReply);
+	rpc GetBid(GetBidRequest) returns (GetBidReply);
+}
+message Bid{
+	int32 Id = 1;
+	string FromCurrency = 2;
+	string ToCurrency = 3;
+	customTypes.DecimalValue OwnedAmount = 4;
+	customTypes.DecimalValue RequiredAmount = 5;}
+message GetBidsReply {
+	repeated Bid BidsList= 1;}
+message CreateBidRequest {
+	string FromCurrency = 1;
+	string ToCurrency = 2;
+	customTypes.DecimalValue OwnedAmount = 3;
+	customTypes.DecimalValue RequiredAmount = 4;}	
+message ExchangeRequest {
+	int32 BidId = 1;
+	string DestinationCard = 2;}
+message GetBidRequest {
+	int32 BidId = 1;}
+message GetBidReply {
+	int32 BidId = 1;
+	string FromCurrency = 2;
+	string ToCurrency = 3;
+	customTypes.DecimalValue OwnedAmount = 4;
+	customTypes.DecimalValue RequiredAmount = 5;
+	string OwnerDestinationCard = 6;
+	string CounteragentDestinationCard = 7;
+	google.protobuf.Timestamp CreatedAt = 8;
+	google.protobuf.Timestamp UpdatedAt = 9;
+	string Status = 10;}

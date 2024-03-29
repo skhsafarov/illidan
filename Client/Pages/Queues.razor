@@ -1,0 +1,64 @@
+﻿@page "/queues"
+@layout LandingLayout
+@inject QueueService.QueueServiceClient QueueServiceClient
+@inject ILocalStorageService LS
+
+
+<Header />
+<div class="content-container ">
+    <div class="section">
+        <div class="section-header ">
+            <h2 class="">Очереди</h2>
+            <div class="section-header-description ">
+            </div>
+        </div>
+        <AuthorizeView>
+            <Authorized>
+                <CardSet>
+                    @if (queues != null)
+                    {
+                        @foreach (var q in queues)
+                        {
+                            <Card Href=@QueueHref(q.QueueId.ToString()) Size="small" Image=@q.ImageLink>
+                                <Title>@q.Name</Title>
+                                <Description>
+                                    Queue ID: @q.QueueId
+                                    People in the queue: @q.Count
+                                </Description>
+                            </Card>
+                        }
+                    }
+                    else
+                    {
+                        <h1>
+                            Очередей нет!
+                        </h1>
+                    }
+                </CardSet>
+            </Authorized>
+            <NotAuthorized>
+                <RedirectToSignin />
+            </NotAuthorized>
+        </AuthorizeView>
+    </div>
+</div>
+
+@code {
+    private IList<Queue> queues;
+
+    private string QueueHref(string s) => $"queue-tokens/{s}";
+
+
+
+    protected async override Task OnInitializedAsync()
+    {
+        var headers = new Metadata();
+        headers.Add("Authorization", $"Bearer {await LS.GetItemAsync<string>("AccessToken")}");
+        var res = await QueueServiceClient.GetQueuesAsync(new Empty(), headers);
+        if (res!=null)
+        {
+            queues = res.Queues.ToList();
+        }
+
+    }
+}

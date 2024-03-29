@@ -1,4 +1,0 @@
-obj\Debug\net6.0/ExchangeService.cs \
-obj\Debug\net6.0/ExchangeServiceGrpc.cs: C:/Users/Buzz Lightyear/.nuget/packages/grpc.tools/2.54.0/build/native/include/google/protobuf/timestamp.proto\
- customTypes.proto\
- exchangeService.proto

@@ -1,0 +1,38 @@
+﻿.component-scope {
+    display: grid;
+    height: 100vh;
+    grid-template-columns: repeat(auto-fill, 100px);
+    grid-template-rows: 100px 100px;
+    gap: 20px;
+    padding: 20px;
+    justify-content: center;
+
+    --color0: rgb(0, 163, 187);
+    --color1: rgb(161, 60, 180);
+    --color2: rgb(166, 50, 50);
+    --color3: rgb(241, 118, 167);
+    --color4: rgb(253, 87, 61);
+    --color5: rgb(255, 0, 122);
+    --color6: rgb(255, 0, 26);
+    --color7: rgb(27, 136, 122);
+    --color8: rgb(31, 161, 93);
+    --color9: rgb(93, 175, 221);
+    --color10: rgb(99, 120, 47);
+}
+
+.animal-token {
+    display: grid
+}
+
+    .animal-token svg, .animal-token img {
+        width: 100%;
+        height: 100%;
+        grid-column: 1 / 2;
+        grid-row: 1 / 2;
+    }
+
+@media screen and (max-width:960px) {
+    .component-scope {
+        height: calc(100vh - 64px);
+    }
+}

@@ -1,0 +1,122 @@
+﻿@keyframes spin {
+    0% {
+        transform: rotate(0)
+    }
+
+    to {
+        transform: rotate(360deg)
+    }
+}
+
+.icon-badge {
+    --symbol-size: 32px;
+    --badge-bg-color: var(--theme-color-surface-0);
+    --badge-bg-color-hover: var(--theme-color-secondary);
+    --symbol-color: var(--theme-color-on-secondary-container);
+    --symbol-color-hover: var(--theme-color-on-secondary);
+    display: grid;
+    align-items: center;
+    transform-origin: 50%;
+    transition: transform cubic-bezier(.4,0,.2,1) .25s;
+    color: var(--symbol-color);
+    font-weight: 500;
+    justify-items: center
+}
+
+    .icon-badge .google-symbols {
+        transition: font-variation-settings cubic-bezier(.4,0,.2,1) .25s;
+        font-variation-settings: "wght" 500
+    }
+
+a:focus.icon-badge, a:focus .icon-badge {
+    color: var(--symbol-color-hover)
+}
+
+    a:focus.icon-badge .mask svg path, a:focus .icon-badge .mask svg path {
+        fill: var(--badge-bg-color-hover)
+    }
+
+a:hover.icon-badge, a:hover .icon-badge {
+    color: var(--symbol-color-hover)
+}
+
+    a:hover.icon-badge .mask svg path, a:hover .icon-badge .mask svg path {
+        fill: var(--badge-bg-color-hover)
+    }
+
+    a:hover.icon-badge .google-symbols, a:hover .icon-badge .google-symbols {
+        font-variation-settings: "wght" 700
+    }
+
+    a:hover.icon-badge .symbol svg path, a:hover .icon-badge .symbol svg path {
+        fill: var(--symbol-color-hover)
+    }
+
+a:active.icon-badge .mask svg path, a:active .icon-badge .mask svg path {
+    fill: var(--badge-bg-color-hover)
+}
+
+a:active.icon-badge .google-symbols, a:active .icon-badge .google-symbols {
+    font-variation-settings: "wght" 300
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    a:hover.spin.icon-badge .clover, a:hover .spin.icon-badge .clover {
+        transform: rotate(90deg)
+    }
+
+    a:hover.spin.icon-badge .flower, a:hover .spin.icon-badge .flower {
+        animation-play-state: running
+    }
+}
+
+.mask, .symbol {
+    grid-column: 1;
+    grid-row: 1
+}
+
+.mask {
+    width: inherit;
+    height: inherit;
+    background-repeat: no-repeat;
+    background-size: contain
+}
+
+    .mask svg {
+        transition: all cubic-bezier(.4,0,.2,1) .25s
+    }
+
+        .mask svg path {
+            transition: fill .3s cubic-bezier(.2,0,0,1);
+            fill: var(--badge-bg-color)
+        }
+
+    .mask .flower {
+        animation: spin 12s linear;
+        animation-iteration-count: infinite;
+        animation-play-state: paused
+    }
+
+.symbol {
+    width: var(--symbol-size);
+    height: var(--symbol-size);
+    z-index: 1
+}
+
+    .symbol svg path {
+        fill: var(--symbol-color)
+    }
+
+    .symbol div {
+        width: inherit;
+        height: inherit;
+        background-size: contain
+    }
+
+    .symbol .glitch {
+        background-image: url(/static/angular/glitch.4a112f1bdf1606cced45.svg)
+    }
+
+    .symbol .google-symbols {
+        font-size: var(--symbol-size)
+    }

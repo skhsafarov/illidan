@@ -1,0 +1,48 @@
+syntax = "proto3";
+
+package queue;
+
+import "customTypes.proto";
+
+option csharp_namespace = "Shared";
+
+service QueueService {
+	rpc CreateQueue (CreateQueueRequest) returns (CreateQueueReply);
+	rpc GetQueues (customTypes.Empty) returns (GetQueuesReply);
+	rpc Enqueue (EnqueueRequest) returns (customTypes.StandartReply);
+	rpc Dequeue (DequeueRequest) returns (customTypes.StandartReply);
+	rpc GetQueueTokens (GetQueueTokensRequest) returns (GetQueueTokensReply);
+}
+
+message CreateQueueRequest {
+	string Name = 1;
+	string ImageLink = 2;
+}
+message CreateQueueReply {
+	int32 QueueId = 1;
+}
+message Queue{
+	int32 QueueId = 1;
+	string Name = 2;
+	string ImageLink = 3;
+	int32 Count = 4;
+}
+message GetQueuesReply {
+	repeated Queue Queues = 1;
+}
+message EnqueueRequest {
+	int32 QueueId = 1;
+}
+message DequeueRequest {
+	int32 QueueId = 1;
+}
+message GetQueueTokensRequest {
+	int32 QueueId = 1;
+}
+message QueueToken{
+    int32 Animal = 1;
+    int32 Color = 2;
+}
+message GetQueueTokensReply {
+	repeated QueueToken Tokens = 1;
+}

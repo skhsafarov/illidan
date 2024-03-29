@@ -1,0 +1,122 @@
+@keyframes spin-b-lhyb63sq23 {
+    0% {
+        transform: rotate(0)
+    }
+
+    to {
+        transform: rotate(360deg)
+    }
+}
+
+.icon-badge[b-lhyb63sq23] {
+    --symbol-size: 32px;
+    --badge-bg-color: var(--theme-color-surface-0);
+    --badge-bg-color-hover: var(--theme-color-secondary);
+    --symbol-color: var(--theme-color-on-secondary-container);
+    --symbol-color-hover: var(--theme-color-on-secondary);
+    display: grid;
+    align-items: center;
+    transform-origin: 50%;
+    transition: transform cubic-bezier(.4,0,.2,1) .25s;
+    color: var(--symbol-color);
+    font-weight: 500;
+    justify-items: center
+}
+
+    .icon-badge .google-symbols[b-lhyb63sq23] {
+        transition: font-variation-settings cubic-bezier(.4,0,.2,1) .25s;
+        font-variation-settings: "wght" 500
+    }
+
+a:focus.icon-badge[b-lhyb63sq23], a:focus .icon-badge[b-lhyb63sq23] {
+    color: var(--symbol-color-hover)
+}
+
+    a:focus.icon-badge .mask svg path[b-lhyb63sq23], a:focus .icon-badge .mask svg path[b-lhyb63sq23] {
+        fill: var(--badge-bg-color-hover)
+    }
+
+a:hover.icon-badge[b-lhyb63sq23], a:hover .icon-badge[b-lhyb63sq23] {
+    color: var(--symbol-color-hover)
+}
+
+    a:hover.icon-badge .mask svg path[b-lhyb63sq23], a:hover .icon-badge .mask svg path[b-lhyb63sq23] {
+        fill: var(--badge-bg-color-hover)
+    }
+
+    a:hover.icon-badge .google-symbols[b-lhyb63sq23], a:hover .icon-badge .google-symbols[b-lhyb63sq23] {
+        font-variation-settings: "wght" 700
+    }
+
+    a:hover.icon-badge .symbol svg path[b-lhyb63sq23], a:hover .icon-badge .symbol svg path[b-lhyb63sq23] {
+        fill: var(--symbol-color-hover)
+    }
+
+a:active.icon-badge .mask svg path[b-lhyb63sq23], a:active .icon-badge .mask svg path[b-lhyb63sq23] {
+    fill: var(--badge-bg-color-hover)
+}
+
+a:active.icon-badge .google-symbols[b-lhyb63sq23], a:active .icon-badge .google-symbols[b-lhyb63sq23] {
+    font-variation-settings: "wght" 300
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    a:hover.spin.icon-badge .clover[b-lhyb63sq23], a:hover .spin.icon-badge .clover[b-lhyb63sq23] {
+        transform: rotate(90deg)
+    }
+
+    a:hover.spin.icon-badge .flower[b-lhyb63sq23], a:hover .spin.icon-badge .flower[b-lhyb63sq23] {
+        animation-play-state: running
+    }
+}
+
+.mask[b-lhyb63sq23], .symbol[b-lhyb63sq23] {
+    grid-column: 1;
+    grid-row: 1
+}
+
+.mask[b-lhyb63sq23] {
+    width: inherit;
+    height: inherit;
+    background-repeat: no-repeat;
+    background-size: contain
+}
+
+    .mask svg[b-lhyb63sq23] {
+        transition: all cubic-bezier(.4,0,.2,1) .25s
+    }
+
+        .mask svg path[b-lhyb63sq23] {
+            transition: fill .3s cubic-bezier(.2,0,0,1);
+            fill: var(--badge-bg-color)
+        }
+
+    .mask .flower[b-lhyb63sq23] {
+        animation: spin-b-lhyb63sq23 12s linear;
+        animation-iteration-count: infinite;
+        animation-play-state: paused
+    }
+
+.symbol[b-lhyb63sq23] {
+    width: var(--symbol-size);
+    height: var(--symbol-size);
+    z-index: 1
+}
+
+    .symbol svg path[b-lhyb63sq23] {
+        fill: var(--symbol-color)
+    }
+
+    .symbol div[b-lhyb63sq23] {
+        width: inherit;
+        height: inherit;
+        background-size: contain
+    }
+
+    .symbol .glitch[b-lhyb63sq23] {
+        background-image: url(/static/angular/glitch.4a112f1bdf1606cced45.svg)
+    }
+
+    .symbol .google-symbols[b-lhyb63sq23] {
+        font-size: var(--symbol-size)
+    }
