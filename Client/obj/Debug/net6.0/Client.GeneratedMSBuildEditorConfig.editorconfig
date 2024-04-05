@@ -13,115 +13,115 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Client
 build_property.RootNamespace = Client
-build_property.ProjectDir = C:\Users\skhsafarov\Desktop\Projects\illidan\Client\
+build_property.ProjectDir = C:\Users\skhsafarov\source\repos\illidan\Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\skhsafarov\Desktop\Projects\illidan\Client
+build_property.MSBuildProjectDirectory = C:\Users\skhsafarov\source\repos\illidan\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/App.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Pages/Booking.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Pages/Booking.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Pages/BusSchedule.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Pages/BusSchedule.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnVzU2NoZWR1bGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Pages/MoneyExchange.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Pages/MoneyExchange.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9uZXlFeGNoYW5nZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Pages/Music.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Pages/Music.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVzaWMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Pages/Queues.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Pages/Queues.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVldWVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Components/RedirectToSignin.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Components/RedirectToSignin.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcUmVkaXJlY3RUb1NpZ25pbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/_Imports.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Pages/QueueTokens.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Pages/QueueTokens.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVldWVUb2tlbnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ieg72q36tv
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Pages/Signin.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Pages/Signin.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbmluLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-nta02x1006
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Components/Card.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Components/Card.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcQ2FyZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-waozn9lhqt
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Components/CardSet.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Components/CardSet.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcQ2FyZFNldC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-mdjs6hffnb
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Components/DarkModeSwitch.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Components/DarkModeSwitch.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcRGFya01vZGVTd2l0Y2gucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-mp7b167ran
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Components/Header.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Components/Header.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcSGVhZGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-j2npr54ges
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Components/IconBadge.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Components/IconBadge.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcSWNvbkJhZGdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-lhyb63sq23
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Components/IconButton.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Components/IconButton.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcSWNvbkJ1dHRvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-cu51uzzn6h
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Components/Table.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Components/Table.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcVGFibGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-x39ab0i9ra
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Layouts/ArticleLayout.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Layouts/ArticleLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcQXJ0aWNsZUxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-zncw6dngow
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Layouts/Drawer.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Layouts/Drawer.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcRHJhd2VyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-7cqpalkwlu
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Layouts/Footer.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Layouts/Footer.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcRm9vdGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-m495t3k7aa
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Layouts/LandingLayout.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Layouts/LandingLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcTGFuZGluZ0xheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-vd5fs0qhfh
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Layouts/LeftNavRail.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Layouts/LeftNavRail.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcTGVmdE5hdlJhaWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-cdm11dv3h4
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Layouts/MainLayout.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Layouts/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-ob9jfx3tan
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Layouts/NavigationDrawer.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Layouts/NavigationDrawer.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcTmF2aWdhdGlvbkRyYXdlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-0zpzdvcx6v
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Layouts/Toolbar.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Layouts/Toolbar.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcVG9vbGJhci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-hjp0e1dl62
 
-[C:/Users/skhsafarov/Desktop/Projects/illidan/Client/Shared/Layouts/TopAppBarFixed.razor]
+[C:/Users/skhsafarov/source/repos/illidan/Client/Shared/Layouts/TopAppBarFixed.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dHNcVG9wQXBwQmFyRml4ZWQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ktb8ufqgq4

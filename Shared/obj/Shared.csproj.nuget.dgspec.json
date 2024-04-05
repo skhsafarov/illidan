@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Shared\\Shared.csproj": {}
+    "C:\\Users\\skhsafarov\\source\\repos\\illidan\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Shared\\Shared.csproj": {
+    "C:\\Users\\skhsafarov\\source\\repos\\illidan\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\skhsafarov\\source\\repos\\illidan\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\skhsafarov\\source\\repos\\illidan\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\skhsafarov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\skhsafarov\\source\\repos\\illidan\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -2883,11 +2883,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\Users\\skhsafarov\\source\\repos\\illidan\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Server\\Server.csproj",
+      "projectPath": "C:\\Users\\skhsafarov\\source\\repos\\illidan\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\skhsafarov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Server\\obj\\",
+      "outputPath": "C:\\Users\\skhsafarov\\source\\repos\\illidan\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2909,11 +2909,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\Client.csproj": {
-              "projectPath": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\Client.csproj"
+            "C:\\Users\\skhsafarov\\source\\repos\\illidan\\Client\\Client.csproj": {
+              "projectPath": "C:\\Users\\skhsafarov\\source\\repos\\illidan\\Client\\Client.csproj"
             },
-            "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Shared\\Shared.csproj": {
-              "projectPath": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Shared\\Shared.csproj"
+            "C:\\Users\\skhsafarov\\source\\repos\\illidan\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\skhsafarov\\source\\repos\\illidan\\Shared\\Shared.csproj"
             }
           }
         }

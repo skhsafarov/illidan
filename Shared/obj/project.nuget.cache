@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iCWWjdnc7LEbvVW88SRC4kpxVmbuz6qxwENLZoeEjRYwu/e2wZ4377e7+dgbVVu+tRPvUj8UR2lXOe8/l6zkFQ==",
+  "dgSpecHash": "r8q/MIjm3r97UAX2SO/44Qv9h2O3SE3ymKxSxoX1E9nlbfShrlQ4luIbdBce0GkGAnZ9OUnL4cclkG1fAzwMQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Shared\\Shared.csproj",
+  "projectFilePath": "C:\\Users\\skhsafarov\\source\\repos\\illidan\\Shared\\Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\skhsafarov\\.nuget\\packages\\google.protobuf\\3.22.3\\google.protobuf.3.22.3.nupkg.sha512",
     "C:\\Users\\skhsafarov\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",

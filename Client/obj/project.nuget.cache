@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kg1EmABoB1tFdswWqpgPOCVgw7xJTLuTHdl+e45TqtZABQ/cdHIOGYyhZ4toVyr2S8ipFo9ak6zxlaX4Go/G2w==",
+  "dgSpecHash": "5IlAIky3YPlC5riULG3Jyb7Rh42bSSsQIq9uk1mytvYBzGoyPdE5TdXYLTdniyaqr64r2lJtYRBAjAK8O/Ka+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\skhsafarov\\Desktop\\Projects\\illidan\\Client\\Client.csproj",
+  "projectFilePath": "C:\\Users\\skhsafarov\\source\\repos\\illidan\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\skhsafarov\\.nuget\\packages\\blazored.localstorage\\4.3.0\\blazored.localstorage.4.3.0.nupkg.sha512",
     "C:\\Users\\skhsafarov\\.nuget\\packages\\blazored.sessionstorage\\2.3.0\\blazored.sessionstorage.2.3.0.nupkg.sha512",
